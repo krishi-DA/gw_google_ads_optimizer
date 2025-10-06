@@ -1,0 +1,3160 @@
+{
+  "result": {
+    "campaign_analysis": {
+      "overall_metrics": {
+        "total_spend": 1162953.0,
+        "total_daily_budget": 1729140.0,
+        "budget_utilization": 67.2561504562962,
+        "total_impressions": 243344,
+        "total_clicks": 24427,
+        "total_conversions": 1420,
+        "overall_ctr": 10.038053126438292,
+        "overall_conversion_rate": 5.813239448151635,
+        "overall_cpc": 47.60932574610062,
+        "overall_cost_per_conversion": 818.980985915493,
+        "active_campaigns": 0
+      },
+      "monthly_trends": {
+        "monthly_data": {
+          "March 2025": {
+            "cost": 337954.0,
+            "daily_budget": 548490.0,
+            "budget_utilization": 61.615343944283396,
+            "conversions": 451,
+            "clicks": 7120,
+            "conversion_rate": 6.334269662921348
+          },
+          "May 2025": {
+            "cost": 327208.0,
+            "daily_budget": 589290.0,
+            "budget_utilization": 55.5258022365898,
+            "conversions": 466,
+            "clicks": 6451,
+            "conversion_rate": 7.223686250193769,
+            "cost_change_pct": -3.1797226841522805,
+            "conversion_change_pct": 3.325942350332594
+          },
+          "September 2025": {
+            "cost": 497791.0,
+            "daily_budget": 591360.0,
+            "budget_utilization": 84.17732007575758,
+            "conversions": 503,
+            "clicks": 10856,
+            "conversion_rate": 4.633382461311717,
+            "cost_change_pct": 52.132894061269894,
+            "conversion_change_pct": 7.939914163090128
+          }
+        },
+        "best_month": "Unknown",
+        "worst_month": "March 2025"
+      },
+      "budget_efficiency": {
+        "average_budget_utilization": 67.2561504562962,
+        "total_cost": 1162953.0,
+        "total_daily_budget": 1729140.0,
+        "efficiency_by_month": {
+          "March 2025": 61.615343944283396,
+          "May 2025": 55.5258022365898,
+          "September 2025": 84.17732007575758
+        },
+        "underutilized_months": [
+          "March 2025",
+          "May 2025"
+        ],
+        "well_utilized_months": [
+          "September 2025"
+        ],
+        "over_utilized_months": [],
+        "optimal_range_months": 1,
+        "budget_recommendations": [
+          "March 2025: Increase daily budget by 20-30% to capture missed opportunities",
+          "May 2025: Increase daily budget by 20-30% to capture missed opportunities"
+        ]
+      },
+      "device_performance": {
+        "device_metrics": {
+          "mobile": {
+            "clicks": 16297,
+            "impressions": 0,
+            "cost": 543848.9299999999,
+            "conversions": 732,
+            "click_share": 66.71715724403325,
+            "cost_share": 46.76445727094283,
+            "conversion_share": 51.54929577464789,
+            "ctr": 0.0,
+            "cpc": 33.37110695219979,
+            "conversion_rate": 4.491624225317543,
+            "cost_per_conversion": 742.963019125683
+          },
+          "desktop": {
+            "clicks": 8052,
+            "impressions": 0,
+            "cost": 614501.86,
+            "conversions": 682,
+            "click_share": 32.963523969378144,
+            "cost_share": 52.83975823007484,
+            "conversion_share": 48.02816901408451,
+            "ctr": 0.0,
+            "cpc": 76.31667411823149,
+            "conversion_rate": 8.469945355191257,
+            "cost_per_conversion": 901.0291202346041
+          },
+          "tablet": {
+            "clicks": 78,
+            "impressions": 0,
+            "cost": 4602.79,
+            "conversions": 6,
+            "click_share": 0.31931878658861096,
+            "cost_share": 0.39578449898232393,
+            "conversion_share": 0.42253521126760557,
+            "ctr": 0.0,
+            "cpc": 59.010128205128204,
+            "conversion_rate": 7.6923076923076925,
+            "cost_per_conversion": 767.1316666666667
+          }
+        },
+        "best_performing_device": "desktop",
+        "total_clicks": 24427,
+        "total_cost": 1162953.58,
+        "total_conversions": 1420
+      },
+      "campaign_insights": [
+        "Total spend: $1,162,953 against $1,729,140 daily budget (67.3% utilization)",
+        "Budget underutilized: 32.7% of daily budget remains unused",
+        "Generated 1,420.0 total conversions across all campaigns",
+        "Average conversion rate: 0.00%"
+      ],
+      "recommendations": [
+        "Increase daily budget allocation in March 2025, May 2025 to maximize opportunity",
+        "Focus optimization efforts on desktop campaigns based on performance"
+      ],
+      "data_summary": {
+        "campaign_records": 1200,
+        "crm_records": 1873,
+        "months_analyzed": 3
+      },
+      "data_anomalies": [
+        "CRITICAL: Average lead score only 1.6 - targeting issues"
+      ],
+      "performance_patterns": [
+        "INSIGHT: Desktop shows 8.47% conversion rate - 4.2x better than average",
+        "QUALITY: Hot Line leads average 1.7 score vs Sales Email Alias at 0.0",
+        "GEOGRAPHIC: Bhiwandi has 0.0% junk rate vs  at 27.6%"
+      ],
+      "campaign_specific_insights": {
+        "Lead-MaximiseConv": {
+          "total_leads": 261,
+          "avg_score": 1.7681992337164751,
+          "conversion_rate": 50.191570881226056,
+          "junk_rate": 20.306513409961685,
+          "contact_type_breakdown": {
+            "3pl": 69,
+            "Lead (Standalone )": 56,
+            "Junk": 53,
+            "Listing-Warehouse": 27,
+            "Logistics": 10,
+            "Job": 10,
+            "": 9,
+            "Listing-land": 5,
+            "SAAS": 5,
+            "Duplicate Entry / Contact Us Submitted Again": 3,
+            "PTL - Vendor / Aggregator": 3,
+            "Listing-Broker": 2,
+            "Warehouse": 2,
+            "Listing-3PL": 2,
+            "Transporter": 2,
+            "Joining our warehouse network": 2,
+            "[\"3PL\",\"E-commerce Fulfillment\"]": 1
+          },
+          "top_terms": {
+            "3pl logistics services": 95,
+            "3pl services": 48,
+            "3pl providers": 35,
+            "3pl warehouse": 28,
+            "3pl logistics": 16
+          },
+          "top_locations": {
+            "": 148,
+            "Bangalore": 17,
+            "Bhiwandi": 13,
+            "Mumbai": 9,
+            "Chennai": 8
+          },
+          "avg_area_requirement": 4882.567049808429,
+          "sample_notes": [
+            "[No Notes Found]",
+            "[2025-09-26 12:38 by Shaila jadhav]\nparcel tracking",
+            "[No Notes Found]"
+          ]
+        },
+        "Lead_maximise": {
+          "total_leads": 4,
+          "avg_score": 0.625,
+          "conversion_rate": 75.0,
+          "junk_rate": 0.0,
+          "contact_type_breakdown": {
+            "3pl": 3,
+            "Lead (Standalone )": 1
+          },
+          "top_terms": {
+            "3pl logistics": 2,
+            "3pl providers": 1,
+            "3pl logistics services": 1
+          },
+          "top_locations": {
+            "Nagpur": 1,
+            "Nashik": 1,
+            "Ahmedabad": 1,
+            "Dhuagardh": 1
+          },
+          "avg_area_requirement": 1812.5,
+          "sample_notes": [
+            "[2025-09-25 12:12 by Rutuja Ganekar]\nshared jsw kalmeshwar - to share more locations \nhe will visit ...",
+            "[2025-09-12 12:24 by Rutuja Ganekar]\ndigvijay khairnar digvijay.khairnar@gmail.com via godamwale.com...",
+            "[2025-06-25 15:07 by Kapil Srivastava]\nclosed lost\n\n---\n\n[2025-06-06 11:25 by Kapil Srivastava]\nNot ..."
+          ]
+        },
+        "Warehouse_Lead": {
+          "total_leads": 197,
+          "avg_score": 1.8756345177664975,
+          "conversion_rate": 53.299492385786806,
+          "junk_rate": 13.19796954314721,
+          "contact_type_breakdown": {
+            "3pl": 63,
+            "Lead (Standalone )": 49,
+            "Junk": 26,
+            "Listing-Warehouse": 16,
+            "Job": 11,
+            "Listing-land": 8,
+            "SAAS": 7,
+            "Logistics": 5,
+            "": 3,
+            "Duplicate Entry / Contact Us Submitted Again": 2,
+            "Warehouse": 2,
+            "PTL - Vendor / Aggregator": 2,
+            "Broker Lead": 2,
+            "Joining our warehouse network": 1
+          },
+          "top_terms": {
+            "warehouse for rent": 132,
+            "warehousing service": 46,
+            "looking for warehouse space": 8,
+            "godown for rent": 7,
+            "godown for rent near me": 2
+          },
+          "top_locations": {
+            "": 105,
+            "Bhiwandi": 11,
+            "Bangalore": 8,
+            "Chennai": 8,
+            "Delhi": 5
+          },
+          "avg_area_requirement": 3110.1522842639592,
+          "sample_notes": [
+            "[No Notes Found]",
+            "[2025-09-24 11:20 by Shaila jadhav]\nlooking for only logistic services not looking for warehouse in ...",
+            "[2025-09-24 15:22 by Dhanashri Kulkarni]\n8446699761 Hemant\nHemant.compercept@gmail.com\nNashik -->all..."
+          ]
+        },
+        "Leads_MaximiseConv": {
+          "total_leads": 7,
+          "avg_score": 0.14285714285714285,
+          "conversion_rate": 71.42857142857143,
+          "junk_rate": 28.57142857142857,
+          "contact_type_breakdown": {
+            "Transporter": 2,
+            "Junk": 2,
+            "Job": 1,
+            "3pl": 1,
+            "Lead (Standalone )": 1
+          },
+          "top_terms": {
+            "3pl logistics services": 3,
+            "amazon fba": 1,
+            "3pl warehouse": 1,
+            "3pl logistics": 1,
+            "warehouse in delhi": 1
+          },
+          "top_locations": {
+            "": 6,
+            "Mumbai, Nhava Seva": 1
+          },
+          "avg_area_requirement": 400.0,
+          "sample_notes": [
+            "[No Notes Found]",
+            "[2025-09-01 15:12 by Shaila jadhav]\ntransportation required",
+            "[2025-06-13 16:09 by Vikas Pandey]\nfollow up mail sent\n\n---\n\n[2025-05-19 18:09 by Vikas Pandey]\nprop..."
+          ]
+        },
+        "Listing_of_Warehouse": {
+          "total_leads": 1,
+          "avg_score": 0.0,
+          "conversion_rate": 0.0,
+          "junk_rate": 0.0,
+          "contact_type_breakdown": {
+            "Lead (Standalone )": 1
+          },
+          "top_terms": {
+            "industrial warehouse for rent": 1
+          },
+          "top_locations": {
+            "": 1
+          },
+          "avg_area_requirement": 0.0,
+          "sample_notes": [
+            "[2025-05-16 15:54 by Deepali Sanghavi]\nDhanashri;\n\nNot answering.\n\n---\n\n[2025-05-15 11:44 by Vivek T..."
+          ]
+        }
+      }
+    },
+    "crm_analysis": {
+      "lead_metrics": {
+        "total_leads": 1873,
+        "average_monthly_leads": 624.3333333333334,
+        "average_score": 1.6035771489588895,
+        "lead_trend": "Increasing",
+        "months_with_data": 3
+      },
+      "lead_quality": {
+        "stage_distribution": {
+          "S0 - Lead Just Received": 981,
+          "": 349,
+          "Quote Sent - Quotation Sent": 186,
+          "S1 - Requirements Received": 113,
+          "Discussion on Requirement": 92,
+          "Open RFQ (Supply Needed/No Inventory)": 26,
+          "Discussion on Quotation": 22,
+          "Discussion": 20,
+          "Negotiation - Price & Terms Negotation": 15,
+          "Not Responding": 14,
+          "Requirement Postponed / Closed": 7,
+          "Site Visit": 7,
+          "Update Pending from Client": 6,
+          "Options not Sent": 4,
+          "Option Unavailable": 4,
+          "Agreement Done": 4,
+          "Converted": 3,
+          "Site Visit Done": 3,
+          "Demo Done": 3,
+          "Future Prospect": 2,
+          "High Pricing": 2,
+          "GST": 2,
+          "Site Visit Schedule": 2,
+          "Operation Live": 1,
+          "Quote Sent - Quotation Sent, Open RFQ (Supply Needed/No Inventory)": 1,
+          "Open RFQ (Supply Needed/No Inventory), Quote Sent - Quotation Sent": 1,
+          "Discussion on Quotation, Open RFQ (Supply Needed/No Inventory)": 1,
+          "Quotation Sent": 1,
+          "Demand not met": 1
+        },
+        "score_analysis": {
+          "mean": 1.6035771489588895,
+          "median": 0.0,
+          "std": 8.380297343453348,
+          "min": 0.0,
+          "max": 100.0
+        },
+        "high_quality_leads": 10,
+        "quality_percentage": 0.5339028296849974,
+        "total_leads_analyzed": 1873
+      },
+      "source_analysis": {
+        "source_distribution": {
+          "Web Mail": 1424,
+          "Hot Line": 261,
+          "": 125,
+          "Email Campaign": 34,
+          "Employee Referral": 9,
+          "External Referral": 7,
+          "Lead Board": 6,
+          "Partner Referral": 3,
+          "Sales Email Alias": 1,
+          "Chat": 1,
+          "LinkedIN": 1,
+          "India Mart": 1
+        },
+        "source_quality": {
+          "": {
+            "count": 125,
+            "mean": 1.26
+          },
+          "Chat": {
+            "count": 1,
+            "mean": 0.0
+          },
+          "Email Campaign": {
+            "count": 34,
+            "mean": 1.32
+          },
+          "Employee Referral": {
+            "count": 9,
+            "mean": 0.11
+          },
+          "External Referral": {
+            "count": 7,
+            "mean": 0.07
+          },
+          "Hot Line": {
+            "count": 261,
+            "mean": 1.74
+          },
+          "India Mart": {
+            "count": 1,
+            "mean": 0.0
+          },
+          "Lead Board": {
+            "count": 6,
+            "mean": 0.33
+          },
+          "LinkedIN": {
+            "count": 1,
+            "mean": 0.0
+          },
+          "Partner Referral": {
+            "count": 3,
+            "mean": 0.33
+          },
+          "Sales Email Alias": {
+            "count": 1,
+            "mean": 0.0
+          },
+          "Web Mail": {
+            "count": 1424,
+            "mean": 1.64
+          }
+        },
+        "top_sources": [
+          "Web Mail",
+          "Hot Line",
+          "",
+          "Email Campaign",
+          "Employee Referral"
+        ]
+      },
+      "conversion_funnel": {
+        "funnel_stages": {
+          "Total Leads": 1873,
+          "Qualified": 0,
+          "Opportunity": 0,
+          "Customer": 10
+        },
+        "conversion_rates": {
+          "Qualified": 0.0,
+          "Opportunity": 0.0,
+          "Customer": 0.5339028296849974
+        }
+      },
+      "geographic_insights": {
+        "location_distribution": {
+          "": 1873
+        },
+        "top_locations": [
+          ""
+        ],
+        "location_quality": {
+          "": {
+            "count": 1873,
+            "mean": 1.6035771489588895
+          }
+        }
+      },
+      "temporal_patterns": {
+        "hourly_patterns": {
+          "0": 1,
+          "1": 3,
+          "2": 1,
+          "3": 2,
+          "4": 1,
+          "6": 4,
+          "7": 6,
+          "8": 4,
+          "9": 12,
+          "10": 160,
+          "11": 270,
+          "12": 272,
+          "13": 200,
+          "14": 214,
+          "15": 223,
+          "16": 230,
+          "17": 142,
+          "18": 83,
+          "19": 14,
+          "20": 12,
+          "21": 11,
+          "22": 5,
+          "23": 3
+        },
+        "daily_patterns": {
+          "Friday": 367,
+          "Thursday": 342,
+          "Monday": 330,
+          "Tuesday": 323,
+          "Wednesday": 276,
+          "Saturday": 224,
+          "Sunday": 11
+        }
+      },
+      "recommendations": [
+        "Lead quality below target: Review targeting criteria and lead sources",
+        "Focus on top-performing sources: Web Mail, Hot Line, "
+      ],
+      "google_ads_attribution": {
+        "total_google_ads_leads": 1424,
+        "google_ads_percentage": 76.02776294714361,
+        "campaign_performance": {
+          "": {
+            "Total_Leads": 310,
+            "Avg_Score": 1.38,
+            "Scored_Leads": 310,
+            "Hot_Leads": 153,
+            "Junk_Leads": 63,
+            "Quality_Rate": 49.35,
+            "Junk_Rate": 20.32
+          },
+          "Call_Only_Ads": {
+            "Total_Leads": 3,
+            "Avg_Score": 17.0,
+            "Scored_Leads": 3,
+            "Hot_Leads": 1,
+            "Junk_Leads": 0,
+            "Quality_Rate": 33.33,
+            "Junk_Rate": 0.0
+          },
+          "Ecommerce_Campaign": {
+            "Total_Leads": 61,
+            "Avg_Score": 0.43,
+            "Scored_Leads": 61,
+            "Hot_Leads": 25,
+            "Junk_Leads": 8,
+            "Quality_Rate": 40.98,
+            "Junk_Rate": 13.11
+          },
+          "FALSE": {
+            "Total_Leads": 1,
+            "Avg_Score": 1.0,
+            "Scored_Leads": 1,
+            "Hot_Leads": 1,
+            "Junk_Leads": 0,
+            "Quality_Rate": 100.0,
+            "Junk_Rate": 0.0
+          },
+          "GW_Core_Ahmedabad": {
+            "Total_Leads": 51,
+            "Avg_Score": 3.57,
+            "Scored_Leads": 51,
+            "Hot_Leads": 28,
+            "Junk_Leads": 6,
+            "Quality_Rate": 54.9,
+            "Junk_Rate": 11.76
+          },
+          "GW_Core_Bengaluru": {
+            "Total_Leads": 120,
+            "Avg_Score": 0.66,
+            "Scored_Leads": 120,
+            "Hot_Leads": 64,
+            "Junk_Leads": 20,
+            "Quality_Rate": 53.33,
+            "Junk_Rate": 16.67
+          },
+          "GW_Core_Bengaluru_Mobile": {
+            "Total_Leads": 8,
+            "Avg_Score": 1.0,
+            "Scored_Leads": 8,
+            "Hot_Leads": 7,
+            "Junk_Leads": 3,
+            "Quality_Rate": 87.5,
+            "Junk_Rate": 37.5
+          },
+          "GW_Core_Bhiwandi": {
+            "Total_Leads": 77,
+            "Avg_Score": 0.4,
+            "Scored_Leads": 77,
+            "Hot_Leads": 37,
+            "Junk_Leads": 17,
+            "Quality_Rate": 48.05,
+            "Junk_Rate": 22.08
+          },
+          "GW_Core_Bhiwandi_Mobile": {
+            "Total_Leads": 30,
+            "Avg_Score": 1.02,
+            "Scored_Leads": 30,
+            "Hot_Leads": 17,
+            "Junk_Leads": 5,
+            "Quality_Rate": 56.67,
+            "Junk_Rate": 16.67
+          },
+          "GW_Core_Chennai": {
+            "Total_Leads": 48,
+            "Avg_Score": 3.72,
+            "Scored_Leads": 48,
+            "Hot_Leads": 26,
+            "Junk_Leads": 10,
+            "Quality_Rate": 54.17,
+            "Junk_Rate": 20.83
+          },
+          "GW_Core_Delhi": {
+            "Total_Leads": 88,
+            "Avg_Score": 1.84,
+            "Scored_Leads": 88,
+            "Hot_Leads": 47,
+            "Junk_Leads": 17,
+            "Quality_Rate": 53.41,
+            "Junk_Rate": 19.32
+          },
+          "GW_Core_Hyderabad": {
+            "Total_Leads": 33,
+            "Avg_Score": 2.94,
+            "Scored_Leads": 33,
+            "Hot_Leads": 17,
+            "Junk_Leads": 6,
+            "Quality_Rate": 51.52,
+            "Junk_Rate": 18.18
+          },
+          "GW_Core_Kerala": {
+            "Total_Leads": 8,
+            "Avg_Score": 0.62,
+            "Scored_Leads": 8,
+            "Hot_Leads": 6,
+            "Junk_Leads": 1,
+            "Quality_Rate": 75.0,
+            "Junk_Rate": 12.5
+          },
+          "GW_Core_Kolkata": {
+            "Total_Leads": 24,
+            "Avg_Score": 4.88,
+            "Scored_Leads": 24,
+            "Hot_Leads": 9,
+            "Junk_Leads": 3,
+            "Quality_Rate": 37.5,
+            "Junk_Rate": 12.5
+          },
+          "GW_Core_Pune": {
+            "Total_Leads": 28,
+            "Avg_Score": 4.2,
+            "Scored_Leads": 28,
+            "Hot_Leads": 17,
+            "Junk_Leads": 7,
+            "Quality_Rate": 60.71,
+            "Junk_Rate": 25.0
+          },
+          "GW_Search_Brand": {
+            "Total_Leads": 49,
+            "Avg_Score": 0.78,
+            "Scored_Leads": 49,
+            "Hot_Leads": 24,
+            "Junk_Leads": 9,
+            "Quality_Rate": 48.98,
+            "Junk_Rate": 18.37
+          },
+          "Inciflo_Search_Brand": {
+            "Total_Leads": 8,
+            "Avg_Score": 0.75,
+            "Scored_Leads": 8,
+            "Hot_Leads": 7,
+            "Junk_Leads": 2,
+            "Quality_Rate": 87.5,
+            "Junk_Rate": 25.0
+          },
+          "Lead-MaximiseConv": {
+            "Total_Leads": 199,
+            "Avg_Score": 1.93,
+            "Scored_Leads": 199,
+            "Hot_Leads": 104,
+            "Junk_Leads": 44,
+            "Quality_Rate": 52.26,
+            "Junk_Rate": 22.11
+          },
+          "Lead_maximise": {
+            "Total_Leads": 2,
+            "Avg_Score": 1.25,
+            "Scored_Leads": 2,
+            "Hot_Leads": 1,
+            "Junk_Leads": 0,
+            "Quality_Rate": 50.0,
+            "Junk_Rate": 0.0
+          },
+          "Leads_MaximiseConv": {
+            "Total_Leads": 7,
+            "Avg_Score": 0.14,
+            "Scored_Leads": 7,
+            "Hot_Leads": 5,
+            "Junk_Leads": 2,
+            "Quality_Rate": 71.43,
+            "Junk_Rate": 28.57
+          },
+          "Listing_of_Warehouse": {
+            "Total_Leads": 1,
+            "Avg_Score": 0.0,
+            "Scored_Leads": 1,
+            "Hot_Leads": 0,
+            "Junk_Leads": 0,
+            "Quality_Rate": 0.0,
+            "Junk_Rate": 0.0
+          },
+          "Organic/Direct": {
+            "Total_Leads": 108,
+            "Avg_Score": 1.47,
+            "Scored_Leads": 108,
+            "Hot_Leads": 56,
+            "Junk_Leads": 19,
+            "Quality_Rate": 51.85,
+            "Junk_Rate": 17.59
+          },
+          "Warehouse_Lead": {
+            "Total_Leads": 160,
+            "Avg_Score": 1.5,
+            "Scored_Leads": 160,
+            "Hot_Leads": 81,
+            "Junk_Leads": 22,
+            "Quality_Rate": 50.62,
+            "Junk_Rate": 13.75
+          }
+        },
+        "term_performance": {
+          "": {
+            "Total_Leads": 418,
+            "Avg_Score": 1.4,
+            "Hot_Leads": 209,
+            "Junk_Leads": 82,
+            "Quality_Rate": 50.0
+          },
+          "warehouse for rent": {
+            "Total_Leads": 109,
+            "Avg_Score": 0.7,
+            "Hot_Leads": 55,
+            "Junk_Leads": 14,
+            "Quality_Rate": 50.46
+          },
+          "3pl logistics services": {
+            "Total_Leads": 73,
+            "Avg_Score": 1.42,
+            "Hot_Leads": 35,
+            "Junk_Leads": 17,
+            "Quality_Rate": 47.95
+          },
+          "warehouse in bangalore": {
+            "Total_Leads": 69,
+            "Avg_Score": 0.63,
+            "Hot_Leads": 33,
+            "Junk_Leads": 15,
+            "Quality_Rate": 47.83
+          },
+          "warehouse in mumbai": {
+            "Total_Leads": 45,
+            "Avg_Score": 1.01,
+            "Hot_Leads": 24,
+            "Junk_Leads": 6,
+            "Quality_Rate": 53.33
+          },
+          "godamwale": {
+            "Total_Leads": 44,
+            "Avg_Score": 0.84,
+            "Hot_Leads": 22,
+            "Junk_Leads": 8,
+            "Quality_Rate": 50.0
+          },
+          "warehouse in delhi": {
+            "Total_Leads": 36,
+            "Avg_Score": 3.36,
+            "Hot_Leads": 22,
+            "Junk_Leads": 7,
+            "Quality_Rate": 61.11
+          },
+          "warehousing service": {
+            "Total_Leads": 36,
+            "Avg_Score": 4.43,
+            "Hot_Leads": 20,
+            "Junk_Leads": 8,
+            "Quality_Rate": 55.56
+          },
+          "3pl services": {
+            "Total_Leads": 35,
+            "Avg_Score": 3.39,
+            "Hot_Leads": 20,
+            "Junk_Leads": 5,
+            "Quality_Rate": 57.14
+          },
+          "3pl providers": {
+            "Total_Leads": 31,
+            "Avg_Score": 2.76,
+            "Hot_Leads": 17,
+            "Junk_Leads": 4,
+            "Quality_Rate": 54.84
+          }
+        },
+        "campaign_quality_breakdown": {
+          "GW_Core_Ahmedabad": {
+            "total_leads": 51,
+            "contact_type_distribution": {
+              "3pl": 17,
+              "Lead (Standalone )": 8,
+              "Junk": 6,
+              "Listing-Warehouse": 5,
+              "Listing-land": 4,
+              "Logistics": 4,
+              "Job": 3,
+              "[\"3PL\",\"Warehouse\",\"E-commerce Fulfillment\",\"B2B distribution\",\"Supply chain software\",\"Joining our warehouse network\",\"": 1,
+              "": 1,
+              "PTL - Vendor / Aggregator": 1,
+              "Transporter": 1
+            },
+            "avg_score": 3.5686274509803924,
+            "status_distribution": {
+              "Hot": 28,
+              "Junk": 11,
+              "Closed": 8,
+              "Cold": 3,
+              "Converted": 1
+            },
+            "top_locations": {
+              "": 29,
+              "Bhiwandi": 3,
+              "Bangalore": 3
+            }
+          },
+          "": {
+            "total_leads": 310,
+            "contact_type_distribution": {
+              "3pl": 87,
+              "Lead (Standalone )": 69,
+              "Junk": 63,
+              "Listing-Warehouse": 23,
+              "Job": 20,
+              "SAAS": 12,
+              "Logistics": 12,
+              "Listing-land": 7,
+              "Transporter": 5,
+              "PTL - Vendor / Aggregator": 3,
+              "": 2,
+              "[\"Warehouse\",\"Joining our warehouse network\"]": 1,
+              "Warehouse": 1,
+              "Duplicate Entry / Contact Us Submitted Again": 1,
+              "Cold Storage": 1,
+              "Listing-Broker": 1,
+              "E-commerce Fulfillment": 1,
+              "Broker Lead": 1
+            },
+            "avg_score": 1.3774193548387097,
+            "status_distribution": {
+              "Hot": 153,
+              "Closed": 66,
+              "Junk": 55,
+              "Cold": 34,
+              "Converted": 2
+            },
+            "top_locations": {
+              "": 173,
+              "Bangalore": 20,
+              "Bhiwandi": 12
+            }
+          },
+          "GW_Core_Hyderabad": {
+            "total_leads": 33,
+            "contact_type_distribution": {
+              "Lead (Standalone )": 7,
+              "Junk": 6,
+              "3pl": 5,
+              "Listing-Warehouse": 4,
+              "Listing-land": 3,
+              "Logistics": 3,
+              "SAAS": 1,
+              "Transporter": 1,
+              "": 1,
+              "Warehouse": 1,
+              "Job": 1
+            },
+            "avg_score": 2.9393939393939394,
+            "status_distribution": {
+              "Hot": 17,
+              "Closed": 7,
+              "Junk": 6,
+              "Cold": 3
+            },
+            "top_locations": {
+              "": 21,
+              "Hyderabad": 2,
+              "Ahmedabad": 1
+            }
+          },
+          "GW_Core_Bengaluru": {
+            "total_leads": 120,
+            "contact_type_distribution": {
+              "Lead (Standalone )": 30,
+              "3pl": 26,
+              "Junk": 20,
+              "Listing-Warehouse": 15,
+              "Logistics": 6,
+              "Listing-land": 6,
+              "SAAS": 4,
+              "Duplicate Entry / Contact Us Submitted Again": 4,
+              "Job": 3,
+              "": 2,
+              "PTL - Vendor / Aggregator": 1,
+              "Transporter": 1,
+              "Warehouse": 1,
+              "Broker Lead": 1
+            },
+            "avg_score": 0.6583333333333333,
+            "status_distribution": {
+              "Hot": 64,
+              "Junk": 22,
+              "Closed": 19,
+              "Cold": 13,
+              "Converted": 2
+            },
+            "top_locations": {
+              "": 80,
+              "Bangalore": 6,
+              "Ahmedabad": 3
+            }
+          },
+          "Lead-MaximiseConv": {
+            "total_leads": 199,
+            "contact_type_distribution": {
+              "3pl": 50,
+              "Junk": 44,
+              "Lead (Standalone )": 40,
+              "Listing-Warehouse": 19,
+              "Job": 9,
+              "Logistics": 9,
+              "": 8,
+              "SAAS": 5,
+              "Listing-land": 4,
+              "PTL - Vendor / Aggregator": 3,
+              "Duplicate Entry / Contact Us Submitted Again": 2,
+              "Listing-3PL": 2,
+              "Transporter": 2,
+              "Warehouse": 1,
+              "Listing-Broker": 1
+            },
+            "avg_score": 1.92964824120603,
+            "status_distribution": {
+              "Hot": 104,
+              "Junk": 48,
+              "Closed": 24,
+              "Cold": 17,
+              "": 4,
+              "Converted": 2
+            },
+            "top_locations": {
+              "": 120,
+              "Bangalore": 13,
+              "Bhiwandi": 9
+            }
+          },
+          "GW_Core_Pune": {
+            "total_leads": 28,
+            "contact_type_distribution": {
+              "Junk": 7,
+              "Lead (Standalone )": 6,
+              "3pl": 5,
+              "Job": 3,
+              "Logistics": 2,
+              "": 2,
+              "Transporter": 1,
+              "E-commerce Fulfillment": 1,
+              "Listing-Warehouse": 1
+            },
+            "avg_score": 4.196428571428571,
+            "status_distribution": {
+              "Hot": 17,
+              "Junk": 6,
+              "Cold": 3,
+              "Closed": 2
+            },
+            "top_locations": {
+              "": 20,
+              "Noida": 2,
+              "Hyderabad": 1
+            }
+          },
+          "GW_Core_Bhiwandi_Mobile": {
+            "total_leads": 30,
+            "contact_type_distribution": {
+              "3pl": 8,
+              "Lead (Standalone )": 6,
+              "Junk": 5,
+              "Logistics": 4,
+              "Job": 4,
+              "Listing-Warehouse": 3
+            },
+            "avg_score": 1.0166666666666666,
+            "status_distribution": {
+              "Hot": 17,
+              "Junk": 7,
+              "Closed": 4,
+              "Cold": 2
+            },
+            "top_locations": {
+              "": 17,
+              "Chennai": 2,
+              "Hyderabad": 2
+            }
+          },
+          "GW_Core_Chennai": {
+            "total_leads": 48,
+            "contact_type_distribution": {
+              "Lead (Standalone )": 11,
+              "Junk": 10,
+              "3pl": 7,
+              "Job": 5,
+              "Logistics": 3,
+              "Listing-Warehouse": 3,
+              "Listing-land": 2,
+              "Transporter": 2,
+              "SAAS": 2,
+              "Warehouse": 2,
+              "PTL - Vendor / Aggregator": 1
+            },
+            "avg_score": 3.71875,
+            "status_distribution": {
+              "Hot": 26,
+              "Junk": 14,
+              "Closed": 4,
+              "Cold": 4
+            },
+            "top_locations": {
+              "": 32,
+              "Chennai": 3,
+              "Hyderabad": 2
+            }
+          },
+          "GW_Search_Brand": {
+            "total_leads": 49,
+            "contact_type_distribution": {
+              "Lead (Standalone )": 12,
+              "Listing-Warehouse": 9,
+              "Junk": 9,
+              "3pl": 7,
+              "Job": 4,
+              "Listing-land": 4,
+              "Transporter": 2,
+              "Duplicate Entry / Contact Us Submitted Again": 1,
+              "Listing-3PL": 1
+            },
+            "avg_score": 0.7755102040816326,
+            "status_distribution": {
+              "Hot": 24,
+              "Closed": 11,
+              "Junk": 8,
+              "Cold": 6
+            },
+            "top_locations": {
+              "": 33,
+              "Kolkata": 2,
+              "Delhi": 2
+            }
+          },
+          "Ecommerce_Campaign": {
+            "total_leads": 61,
+            "contact_type_distribution": {
+              "3pl": 17,
+              "Lead (Standalone )": 14,
+              "Listing-Warehouse": 9,
+              "Junk": 8,
+              "Listing-land": 4,
+              "Transporter": 2,
+              "Logistics": 2,
+              "Job": 1,
+              "Duplicate Entry / Contact Us Submitted Again": 1,
+              "Warehouse": 1,
+              "SAAS": 1,
+              "Listing-3PL": 1
+            },
+            "avg_score": 0.4262295081967213,
+            "status_distribution": {
+              "Hot": 25,
+              "Closed": 18,
+              "Junk": 9,
+              "Cold": 8,
+              "Converted": 1
+            },
+            "top_locations": {
+              "": 35,
+              "Ahmedabad": 4,
+              "Bhiwandi": 4
+            }
+          },
+          "Organic/Direct": {
+            "total_leads": 108,
+            "contact_type_distribution": {
+              "Lead (Standalone )": 30,
+              "3pl": 27,
+              "Junk": 19,
+              "Listing-Warehouse": 10,
+              "Job": 6,
+              "SAAS": 4,
+              "Listing-land": 4,
+              "Logistics": 3,
+              "Transporter": 2,
+              "PTL - Vendor / Aggregator": 1,
+              "Cold Storage": 1,
+              "Warehouse": 1
+            },
+            "avg_score": 1.4722222222222223,
+            "status_distribution": {
+              "Hot": 56,
+              "Closed": 22,
+              "Junk": 20,
+              "Cold": 9,
+              "Converted": 1
+            },
+            "top_locations": {
+              "": 58,
+              "Mumbai": 6,
+              "Gurgaon": 5
+            }
+          },
+          "Warehouse_Lead": {
+            "total_leads": 160,
+            "contact_type_distribution": {
+              "3pl": 47,
+              "Lead (Standalone )": 45,
+              "Junk": 22,
+              "Listing-Warehouse": 14,
+              "Job": 11,
+              "Listing-land": 7,
+              "SAAS": 5,
+              "Logistics": 4,
+              "PTL - Vendor / Aggregator": 2,
+              "Broker Lead": 2,
+              "Duplicate Entry / Contact Us Submitted Again": 1
+            },
+            "avg_score": 1.5,
+            "status_distribution": {
+              "Hot": 81,
+              "Closed": 29,
+              "Cold": 25,
+              "Junk": 21,
+              "Converted": 3,
+              "": 1
+            },
+            "top_locations": {
+              "": 88,
+              "Bhiwandi": 10,
+              "Chennai": 6
+            }
+          },
+          "GW_Core_Delhi": {
+            "total_leads": 88,
+            "contact_type_distribution": {
+              "Lead (Standalone )": 20,
+              "3pl": 19,
+              "Junk": 17,
+              "Listing-Warehouse": 9,
+              "Listing-land": 8,
+              "Logistics": 6,
+              "Job": 4,
+              "Transporter": 2,
+              "Duplicate Entry / Contact Us Submitted Again": 2,
+              "": 1
+            },
+            "avg_score": 1.8352272727272727,
+            "status_distribution": {
+              "Hot": 47,
+              "Closed": 18,
+              "Junk": 14,
+              "Cold": 8,
+              "Converted": 1
+            },
+            "top_locations": {
+              "": 54,
+              "Bangalore": 8,
+              "Bhiwandi": 4
+            }
+          },
+          "GW_Core_Kerala": {
+            "total_leads": 8,
+            "contact_type_distribution": {
+              "Lead (Standalone )": 2,
+              "3pl": 2,
+              "[\"3PL\",\"Warehouse\",\"E-commerce Fulfillment\",\"B2B distribution\",\"Supply chain software\",\"Joining our warehouse network\",\"": 1,
+              "Job": 1,
+              "Junk": 1,
+              "Listing-Warehouse": 1
+            },
+            "avg_score": 0.625,
+            "status_distribution": {
+              "Hot": 6,
+              "Junk": 2
+            },
+            "top_locations": {
+              "": 4,
+              "Bhiwandi": 1,
+              "Pune": 1
+            }
+          },
+          "GW_Core_Bhiwandi": {
+            "total_leads": 77,
+            "contact_type_distribution": {
+              "3pl": 22,
+              "Lead (Standalone )": 19,
+              "Junk": 17,
+              "Listing-Warehouse": 10,
+              "Logistics": 3,
+              "Listing-land": 2,
+              "Job": 2,
+              "PTL - Vendor / Aggregator": 1,
+              "SAAS": 1
+            },
+            "avg_score": 0.3961038961038961,
+            "status_distribution": {
+              "Hot": 37,
+              "Closed": 16,
+              "Cold": 13,
+              "Junk": 10,
+              "Converted": 1
+            },
+            "top_locations": {
+              "": 44,
+              "Bangalore": 4,
+              "Delhi": 4
+            }
+          },
+          "GW_Core_Kolkata": {
+            "total_leads": 24,
+            "contact_type_distribution": {
+              "Lead (Standalone )": 5,
+              "3pl": 5,
+              "Junk": 3,
+              "Transporter": 3,
+              "Listing-Warehouse": 3,
+              "Job": 3,
+              "PTL - Vendor / Aggregator": 1,
+              "Logistics": 1
+            },
+            "avg_score": 4.875,
+            "status_distribution": {
+              "Junk": 11,
+              "Hot": 9,
+              "": 2,
+              "Closed": 2
+            },
+            "top_locations": {
+              "": 16,
+              "Bangalore": 2,
+              "Bangalore, Kolkata": 1
+            }
+          },
+          "FALSE": {
+            "total_leads": 1,
+            "contact_type_distribution": {
+              "3pl": 1
+            },
+            "avg_score": 1.0,
+            "status_distribution": {
+              "Hot": 1
+            },
+            "top_locations": {
+              "Bangalore": 1
+            }
+          },
+          "Call_Only_Ads": {
+            "total_leads": 3,
+            "contact_type_distribution": {
+              "Job": 1,
+              "SAAS": 1,
+              "Lead (Standalone )": 1
+            },
+            "avg_score": 17.0,
+            "status_distribution": {
+              "Junk": 1,
+              "Cold": 1,
+              "Hot": 1
+            },
+            "top_locations": {
+              "": 2,
+              "Ankaleshwar": 1
+            }
+          },
+          "Leads_MaximiseConv": {
+            "total_leads": 7,
+            "contact_type_distribution": {
+              "Transporter": 2,
+              "Junk": 2,
+              "Job": 1,
+              "3pl": 1,
+              "Lead (Standalone )": 1
+            },
+            "avg_score": 0.14285714285714285,
+            "status_distribution": {
+              "Hot": 5,
+              "Junk": 1,
+              "Cold": 1
+            },
+            "top_locations": {
+              "": 6,
+              "Mumbai, Nhava Seva": 1
+            }
+          },
+          "GW_Core_Bengaluru_Mobile": {
+            "total_leads": 8,
+            "contact_type_distribution": {
+              "Lead (Standalone )": 4,
+              "Junk": 3,
+              "Listing-land": 1
+            },
+            "avg_score": 1.0,
+            "status_distribution": {
+              "Hot": 7,
+              "Closed": 1
+            },
+            "top_locations": {
+              "": 6,
+              "Delhi": 1,
+              "Bangalore": 1
+            }
+          },
+          "Lead_maximise": {
+            "total_leads": 2,
+            "contact_type_distribution": {
+              "3pl": 2
+            },
+            "avg_score": 1.25,
+            "status_distribution": {
+              "Hot": 1,
+              "Closed": 1
+            },
+            "top_locations": {
+              "Nashik": 1,
+              "Ahmedabad": 1
+            }
+          },
+          "Inciflo_Search_Brand": {
+            "total_leads": 8,
+            "contact_type_distribution": {
+              "Lead (Standalone )": 4,
+              "Junk": 2,
+              "Listing-land": 1,
+              "3pl": 1
+            },
+            "avg_score": 0.75,
+            "status_distribution": {
+              "Hot": 7,
+              "Cold": 1
+            },
+            "top_locations": {
+              "": 5,
+              "Raipur": 1,
+              "Ahmedabad": 1
+            }
+          },
+          "Listing_of_Warehouse": {
+            "total_leads": 1,
+            "contact_type_distribution": {
+              "Lead (Standalone )": 1
+            },
+            "avg_score": 0.0,
+            "status_distribution": {
+              "Cold": 1
+            },
+            "top_locations": {
+              "": 1
+            }
+          }
+        }
+      },
+      "lead_quality_patterns": {
+        "quality_distribution": {
+          "high_quality_count": 985,
+          "junk_count": 314,
+          "total_leads": 1873,
+          "quality_percentage": 52.58942872397224
+        },
+        "high_quality_characteristics": {
+          "top_sources": {
+            "Web Mail": 750,
+            "Hot Line": 136,
+            "": 72,
+            "Email Campaign": 13,
+            "Employee Referral": 6
+          },
+          "top_locations": {
+            "": 526,
+            "Bangalore": 45,
+            "Bhiwandi": 37,
+            "Chennai": 34,
+            "Hyderabad": 34
+          },
+          "avg_area_requirement": 4388.035532994923,
+          "business_types": {
+            "": 746,
+            "Distributor": 75,
+            "Manufacturer": 64,
+            "Other": 57,
+            "Import / Export": 27
+          },
+          "industry_types": {
+            "": 580,
+            "Other": 88,
+            "Electronics & Electrical": 39,
+            "Food Industry": 37,
+            "Chemical": 29
+          }
+        },
+        "junk_characteristics": {
+          "top_sources": {
+            "Web Mail": 264,
+            "": 28,
+            "Hot Line": 20,
+            "Email Campaign": 2
+          },
+          "top_locations": {
+            "": 289,
+            "Bangalore": 5,
+            "Delhi": 3,
+            "Mumbai": 3,
+            "Hyderabad": 2
+          },
+          "avg_area_requirement": 197.29299363057325,
+          "business_types": {
+            "": 298,
+            "Distributor": 7,
+            "Other": 6,
+            "Manufacturer": 3
+          }
+        },
+        "quality_indicators": [
+          "High quality leads require 4388 sqft avg vs 197 sqft for junk leads"
+        ]
+      },
+      "notes_text_analysis": {
+        "total_notes": 1871,
+        "notes_coverage": 99.893219434063,
+        "junk_reasons": {
+          "not_interested": 61,
+          "budget_issues": 17,
+          "wrong_requirement": 3,
+          "location_mismatch": 28,
+          "timing_issues": 4,
+          "no_response": 18
+        },
+        "conversion_barriers": {
+          "price_sensitivity": 27,
+          "decision_pending": 3,
+          "requirement_changed": 1,
+          "documentation_issues": 7,
+          "approval_pending": 16
+        },
+        "positive_indicators": {
+          "urgent_requirement": 68,
+          "decision_maker": 11,
+          "site_visit_requested": 57,
+          "quick_timeline": 13
+        },
+        "common_phrases": {
+          "warehouse": 1026,
+          "location": 750,
+          "requirement": 349,
+          "budget": 261,
+          "space": 188,
+          "immediate": 60,
+          "urgent": 19
+        },
+        "notes_by_status": {
+          "": 14,
+          "Closed": 336,
+          "Cold": 191,
+          "Converted": 26,
+          "Hot": 955,
+          "Junk": 349
+        }
+      },
+      "contact_type_performance": {
+        "contact_type_analysis": {
+          "[\"3PL\",\"Warehouse\",\"E-commerce Fulfillment\",\"B2B distribution\",\"Supply chain software\",\"Joining our warehouse network\",\"": {
+            "count": 3,
+            "percentage": 0.16017084890549918,
+            "avg_score": 0.0,
+            "top_sources": {
+              "Web Mail": 2,
+              "": 1
+            },
+            "top_locations": {
+              "": 3
+            },
+            "status_distribution": {
+              "Hot": 2,
+              "Junk": 1
+            },
+            "avg_area_requirement": 0.0,
+            "conversion_rate": 66.66666666666666
+          },
+          "": {
+            "count": 39,
+            "percentage": 2.08222103577149,
+            "avg_score": 1.064102564102564,
+            "top_sources": {
+              "": 22,
+              "Web Mail": 17
+            },
+            "top_locations": {
+              "": 31,
+              "Pune": 2,
+              "Chennai": 1
+            },
+            "status_distribution": {
+              "Hot": 25,
+              "": 9,
+              "Cold": 4,
+              "Closed": 1
+            },
+            "avg_area_requirement": 1576.923076923077,
+            "conversion_rate": 64.1025641025641
+          },
+          "Transporter": {
+            "count": 29,
+            "percentage": 1.5483182060864922,
+            "avg_score": 2.4827586206896552,
+            "top_sources": {
+              "Web Mail": 26,
+              "": 2,
+              "Hot Line": 1
+            },
+            "top_locations": {
+              "": 26,
+              "Bhiwandi": 1,
+              "Gujarat / Bhiwandi": 1
+            },
+            "status_distribution": {
+              "Hot": 16,
+              "Junk": 11,
+              "Closed": 2
+            },
+            "avg_area_requirement": 0.0,
+            "conversion_rate": 55.172413793103445
+          },
+          "SAAS": {
+            "count": 40,
+            "percentage": 2.1356113187399894,
+            "avg_score": 1.9625,
+            "top_sources": {
+              "Web Mail": 36,
+              "Email Campaign": 2,
+              "Hot Line": 1
+            },
+            "top_locations": {
+              "": 36,
+              "Mumbai": 2,
+              "Gurgaon and Bangalore.": 1
+            },
+            "status_distribution": {
+              "Hot": 27,
+              "Cold": 7,
+              "Junk": 3,
+              "Closed": 2,
+              "Converted": 1
+            },
+            "avg_area_requirement": 0.0,
+            "conversion_rate": 70.0
+          },
+          "Listing-land": {
+            "count": 69,
+            "percentage": 3.6839295248264814,
+            "avg_score": 0.6739130434782609,
+            "top_sources": {
+              "Web Mail": 57,
+              "Hot Line": 11,
+              "": 1
+            },
+            "top_locations": {
+              "": 62,
+              "Ahmedabad": 1,
+              "Rajasthan": 1
+            },
+            "status_distribution": {
+              "Hot": 38,
+              "Closed": 24,
+              "Junk": 6,
+              "Cold": 1
+            },
+            "avg_area_requirement": 65.21739130434783,
+            "conversion_rate": 55.072463768115945
+          },
+          "Junk": {
+            "count": 314,
+            "percentage": 16.764548852108916,
+            "avg_score": 1.2563694267515924,
+            "top_sources": {
+              "Web Mail": 264,
+              "": 28,
+              "Hot Line": 20
+            },
+            "top_locations": {
+              "": 289,
+              "Bangalore": 5,
+              "Delhi": 3
+            },
+            "status_distribution": {
+              "Junk": 142,
+              "Hot": 138,
+              "Closed": 27,
+              "Cold": 7
+            },
+            "avg_area_requirement": 197.29299363057325,
+            "conversion_rate": 43.94904458598726
+          },
+          "Lead (Standalone )": {
+            "count": 425,
+            "percentage": 22.690870261612385,
+            "avg_score": 1.6564705882352941,
+            "top_sources": {
+              "Web Mail": 335,
+              "Hot Line": 80,
+              "": 5
+            },
+            "top_locations": {
+              "": 137,
+              "Hyderabad": 30,
+              "Bangalore": 28
+            },
+            "status_distribution": {
+              "Hot": 330,
+              "Closed": 46,
+              "Cold": 32,
+              "Junk": 16,
+              "": 1
+            },
+            "avg_area_requirement": 9618.152941176471,
+            "conversion_rate": 77.64705882352942
+          },
+          "3pl": {
+            "count": 518,
+            "percentage": 27.65616657768286,
+            "avg_score": 1.2915057915057915,
+            "top_sources": {
+              "Web Mail": 356,
+              "Hot Line": 112,
+              "Email Campaign": 30
+            },
+            "top_locations": {
+              "Bangalore": 64,
+              "Bhiwandi": 62,
+              "": 50
+            },
+            "status_distribution": {
+              "Hot": 185,
+              "Cold": 138,
+              "Closed": 118,
+              "Junk": 50,
+              "Converted": 25,
+              "": 2
+            },
+            "avg_area_requirement": 3513.6679536679535,
+            "conversion_rate": 40.54054054054054
+          },
+          "Job": {
+            "count": 91,
+            "percentage": 4.858515750133476,
+            "avg_score": 2.879120879120879,
+            "top_sources": {
+              "Web Mail": 82,
+              "": 8,
+              "Hot Line": 1
+            },
+            "top_locations": {
+              "": 90,
+              "Chennai": 1
+            },
+            "status_distribution": {
+              "Hot": 49,
+              "Junk": 39,
+              "Closed": 2,
+              "": 1
+            },
+            "avg_area_requirement": 0.0,
+            "conversion_rate": 53.84615384615385
+          },
+          "Warehouse": {
+            "count": 28,
+            "percentage": 1.4949279231179926,
+            "avg_score": 0.25,
+            "top_sources": {
+              "": 20,
+              "Web Mail": 8
+            },
+            "top_locations": {
+              "": 26,
+              "Delhi": 1,
+              "Hyderabad": 1
+            },
+            "status_distribution": {
+              "Hot": 27,
+              "Junk": 1
+            },
+            "avg_area_requirement": 410.7142857142857,
+            "conversion_rate": 96.42857142857143
+          },
+          "[\"3PL\",\"E-commerce Fulfillment\"]": {
+            "count": 1,
+            "percentage": 0.05339028296849973,
+            "avg_score": 22.0,
+            "top_sources": {
+              "": 1
+            },
+            "top_locations": {
+              "": 1
+            },
+            "status_distribution": {
+              "Hot": 1
+            },
+            "avg_area_requirement": 0.0,
+            "conversion_rate": 100.0
+          },
+          "[\"Warehouse\",\"Joining our warehouse network\"]": {
+            "count": 1,
+            "percentage": 0.05339028296849973,
+            "avg_score": 0.0,
+            "top_sources": {
+              "Web Mail": 1
+            },
+            "top_locations": {
+              "": 1
+            },
+            "status_distribution": {
+              "Hot": 1
+            },
+            "avg_area_requirement": 0.0,
+            "conversion_rate": 100.0
+          },
+          "Logistics": {
+            "count": 71,
+            "percentage": 3.7907100907634814,
+            "avg_score": 0.8732394366197183,
+            "top_sources": {
+              "Web Mail": 62,
+              "": 5,
+              "Hot Line": 4
+            },
+            "top_locations": {
+              "": 65,
+              "Lucknow": 1,
+              "Hyderabad": 1
+            },
+            "status_distribution": {
+              "Junk": 53,
+              "Hot": 16,
+              "Closed": 2
+            },
+            "avg_area_requirement": 0.0,
+            "conversion_rate": 22.535211267605636
+          },
+          "PTL - Vendor / Aggregator": {
+            "count": 14,
+            "percentage": 0.7474639615589963,
+            "avg_score": 8.607142857142858,
+            "top_sources": {
+              "Web Mail": 14
+            },
+            "top_locations": {
+              "": 14
+            },
+            "status_distribution": {
+              "Junk": 10,
+              "Hot": 4
+            },
+            "avg_area_requirement": 0.0,
+            "conversion_rate": 28.57142857142857
+          },
+          "Duplicate Entry / Contact Us Submitted Again": {
+            "count": 25,
+            "percentage": 1.3347570742124935,
+            "avg_score": 0.78,
+            "top_sources": {
+              "Web Mail": 12,
+              "": 11,
+              "Hot Line": 2
+            },
+            "top_locations": {
+              "": 23,
+              "Bangalore": 2
+            },
+            "status_distribution": {
+              "Hot": 12,
+              "Junk": 11,
+              "Cold": 1,
+              "Closed": 1
+            },
+            "avg_area_requirement": 148.0,
+            "conversion_rate": 48.0
+          },
+          "Listing-Warehouse": {
+            "count": 168,
+            "percentage": 8.969567538707954,
+            "avg_score": 2.3273809523809526,
+            "top_sources": {
+              "Web Mail": 138,
+              "Hot Line": 25,
+              "": 4
+            },
+            "top_locations": {
+              "": 162,
+              "Hyderabad": 3,
+              "Kolkata": 1
+            },
+            "status_distribution": {
+              "Closed": 109,
+              "Hot": 54,
+              "Junk": 3,
+              "": 2
+            },
+            "avg_area_requirement": 327.3809523809524,
+            "conversion_rate": 32.142857142857146
+          },
+          "Listing-Broker": {
+            "count": 3,
+            "percentage": 0.16017084890549918,
+            "avg_score": 0.6666666666666666,
+            "top_sources": {
+              "Web Mail": 2,
+              "": 1
+            },
+            "top_locations": {
+              "": 3
+            },
+            "status_distribution": {
+              "Hot": 3
+            },
+            "avg_area_requirement": 0.0,
+            "conversion_rate": 100.0
+          },
+          "Cold Storage": {
+            "count": 4,
+            "percentage": 0.21356113187399892,
+            "avg_score": 0.75,
+            "top_sources": {
+              "Web Mail": 2,
+              "Hot Line": 2
+            },
+            "top_locations": {
+              "Delhi": 1,
+              "Ahmedabad, Punjab": 1,
+              "Surat": 1
+            },
+            "status_distribution": {
+              "Hot": 3,
+              "Junk": 1
+            },
+            "avg_area_requirement": 5875.0,
+            "conversion_rate": 75.0
+          },
+          "E-commerce Fulfillment": {
+            "count": 3,
+            "percentage": 0.16017084890549918,
+            "avg_score": 33.333333333333336,
+            "top_sources": {
+              "Web Mail": 2,
+              "": 1
+            },
+            "top_locations": {
+              "": 3
+            },
+            "status_distribution": {
+              "Hot": 2,
+              "Junk": 1
+            },
+            "avg_area_requirement": 0.0,
+            "conversion_rate": 66.66666666666666
+          },
+          "[\"3PL\",\"Warehouse\"]": {
+            "count": 1,
+            "percentage": 0.05339028296849973,
+            "avg_score": 1.0,
+            "top_sources": {
+              "": 1
+            },
+            "top_locations": {
+              "": 1
+            },
+            "status_distribution": {
+              "Junk": 1
+            },
+            "avg_area_requirement": 0.0,
+            "conversion_rate": 0.0
+          },
+          "Listing-3PL": {
+            "count": 6,
+            "percentage": 0.32034169781099836,
+            "avg_score": 0.5,
+            "top_sources": {
+              "Web Mail": 4,
+              "Hot Line": 1,
+              "Employee Referral": 1
+            },
+            "top_locations": {
+              "": 5,
+              "Bhubaneswar": 1
+            },
+            "status_distribution": {
+              "Hot": 4,
+              "Closed": 2
+            },
+            "avg_area_requirement": 333.3333333333333,
+            "conversion_rate": 66.66666666666666
+          },
+          "[\"Warehouse\",\"E-commerce Fulfillment\",\"Joining our warehouse network\"]": {
+            "count": 1,
+            "percentage": 0.05339028296849973,
+            "avg_score": 1.0,
+            "top_sources": {
+              "": 1
+            },
+            "top_locations": {
+              "": 1
+            },
+            "status_distribution": {
+              "Hot": 1
+            },
+            "avg_area_requirement": 0.0,
+            "conversion_rate": 100.0
+          },
+          "Joining our warehouse network": {
+            "count": 12,
+            "percentage": 0.6406833956219967,
+            "avg_score": 0.08333333333333333,
+            "top_sources": {
+              "": 12
+            },
+            "top_locations": {
+              "": 12
+            },
+            "status_distribution": {
+              "Hot": 12
+            },
+            "avg_area_requirement": 0.0,
+            "conversion_rate": 100.0
+          },
+          "Discovery Call": {
+            "count": 1,
+            "percentage": 0.05339028296849973,
+            "avg_score": 0.0,
+            "top_sources": {
+              "LinkedIN": 1
+            },
+            "top_locations": {
+              "": 1
+            },
+            "status_distribution": {
+              "Cold": 1
+            },
+            "avg_area_requirement": 500.0,
+            "conversion_rate": 0.0
+          },
+          "Broker Lead": {
+            "count": 5,
+            "percentage": 0.2669514148424987,
+            "avg_score": 0.5,
+            "top_sources": {
+              "Web Mail": 4,
+              "Hot Line": 1
+            },
+            "top_locations": {
+              "": 4,
+              "Varanasi": 1
+            },
+            "status_distribution": {
+              "Hot": 5
+            },
+            "avg_area_requirement": 11000.0,
+            "conversion_rate": 100.0
+          },
+          "Supply chain software": {
+            "count": 1,
+            "percentage": 0.05339028296849973,
+            "avg_score": 0.0,
+            "top_sources": {
+              "": 1
+            },
+            "top_locations": {
+              "": 1
+            },
+            "status_distribution": {
+              "Hot": 1
+            },
+            "avg_area_requirement": 0.0,
+            "conversion_rate": 100.0
+          }
+        },
+        "best_performing_types": [
+          "Joining our warehouse network: 100.0% conversion",
+          "Warehouse: 96.4% conversion",
+          "Lead (Standalone ): 77.6% conversion",
+          "SAAS: 70.0% conversion",
+          ": 64.1% conversion",
+          "Transporter: 55.2% conversion",
+          "Listing-land: 55.1% conversion",
+          "Job: 53.8% conversion",
+          "Duplicate Entry / Contact Us Submitted Again: 48.0% conversion",
+          "Junk: 43.9% conversion",
+          "3pl: 40.5% conversion",
+          "Listing-Warehouse: 32.1% conversion",
+          "PTL - Vendor / Aggregator: 28.6% conversion",
+          "Logistics: 22.5% conversion"
+        ],
+        "total_contact_types": 26
+      },
+      "area_requirement_analysis": {
+        "area_distribution": {
+          "1K-5K": 320,
+          "<1K": 296,
+          "5K-10K": 99,
+          "10K-25K": 52,
+          ">25K": 50
+        },
+        "area_quality_correlation": {
+          ">25K": {
+            "count": 50,
+            "avg_score": 2.84,
+            "hot_percentage": 72.0,
+            "junk_percentage": 2.0
+          },
+          "1K-5K": {
+            "count": 320,
+            "avg_score": 2.209375,
+            "hot_percentage": 65.0,
+            "junk_percentage": 1.875
+          },
+          "5K-10K": {
+            "count": 99,
+            "avg_score": 0.7272727272727273,
+            "hot_percentage": 64.64646464646465,
+            "junk_percentage": 1.0101010101010102
+          },
+          "<1K": {
+            "count": 296,
+            "avg_score": 1.035472972972973,
+            "hot_percentage": 38.85135135135135,
+            "junk_percentage": 5.743243243243244
+          },
+          "10K-25K": {
+            "count": 52,
+            "avg_score": 0.8173076923076923,
+            "hot_percentage": 65.38461538461539,
+            "junk_percentage": 0.0
+          }
+        },
+        "area_by_location": {
+          "": {
+            "mean": 6111.0,
+            "count": 102
+          },
+          "Ahmedabad": {
+            "mean": 7419.0,
+            "count": 31
+          },
+          "Aurangabad": {
+            "mean": 1700.0,
+            "count": 5
+          },
+          "Bangalore": {
+            "mean": 3731.0,
+            "count": 86
+          },
+          "Bhiwandi": {
+            "mean": 6382.0,
+            "count": 71
+          },
+          "Chennai": {
+            "mean": 6379.0,
+            "count": 48
+          },
+          "Coimbatore": {
+            "mean": 4100.0,
+            "count": 7
+          },
+          "Delhi": {
+            "mean": 16348.0,
+            "count": 41
+          },
+          "Faridabad": {
+            "mean": 16150.0,
+            "count": 8
+          },
+          "Ghaziabad": {
+            "mean": 12090.0,
+            "count": 10
+          },
+          "Gujrat": {
+            "mean": 10990.0,
+            "count": 10
+          },
+          "Gurgaon": {
+            "mean": 5581.0,
+            "count": 29
+          },
+          "Guwahati": {
+            "mean": 3300.0,
+            "count": 5
+          },
+          "Hyderabad": {
+            "mean": 17336.0,
+            "count": 47
+          },
+          "Indore": {
+            "mean": 13300.0,
+            "count": 5
+          },
+          "Jaipur": {
+            "mean": 14558.0,
+            "count": 6
+          },
+          "Kolkata": {
+            "mean": 5860.0,
+            "count": 15
+          },
+          "Lucknow": {
+            "mean": 5333.0,
+            "count": 9
+          },
+          "Mumbai": {
+            "mean": 4587.0,
+            "count": 30
+          },
+          "Mumbai (Panvel)": {
+            "mean": 2800.0,
+            "count": 5
+          },
+          "Nagpur": {
+            "mean": 1930.0,
+            "count": 5
+          },
+          "Noida": {
+            "mean": 6636.0,
+            "count": 14
+          },
+          "Pune": {
+            "mean": 3902.0,
+            "count": 31
+          },
+          "Surat": {
+            "mean": 13760.0,
+            "count": 5
+          }
+        },
+        "conversion_by_area": {}
+      },
+      "conversion_barriers": {
+        "total_non_converting": 498,
+        "barrier_patterns": {
+          "by_contact_type": {
+            "Junk": 314,
+            "3pl": 138,
+            "Lead (Standalone )": 32,
+            "SAAS": 7,
+            "": 4,
+            "Listing-land": 1,
+            "Duplicate Entry / Contact Us Submitted Again": 1,
+            "Discovery Call": 1
+          },
+          "by_status": {
+            "Cold": 191,
+            "Junk": 142,
+            "Hot": 138,
+            "Closed": 27
+          },
+          "avg_score": 1.1154618473895583
+        },
+        "geographic_barriers": {
+          "": 32.0,
+          "Mumbai": 27.8,
+          "Delhi": 27.7,
+          "Bangalore": 22.3,
+          "Gurgaon": 20.0,
+          "Pune": 19.4,
+          "Ahmedabad": 18.9,
+          "Bhiwandi": 18.3,
+          "NA": 18.2,
+          "Chennai": 16.7
+        },
+        "source_barriers": {
+          "Web Mail": 28.8,
+          "Email Campaign": 26.5,
+          "": 24.8,
+          "Hot Line": 16.1
+        },
+        "timing_barriers": {}
+      },
+      "campaign_term_insights": {
+        "campaign_overview": {
+          "Organic/Direct": {
+            "total_leads": 146,
+            "avg_score": 1.2808219178082192,
+            "conversion_rate": 52.73972602739726,
+            "junk_rate": 17.123287671232877,
+            "top_terms": {
+              "": 146
+            },
+            "top_locations": {
+              "": 75,
+              "Mumbai": 7,
+              "Gurgaon": 7
+            }
+          },
+          "Ecommerce_Campaign": {
+            "total_leads": 85,
+            "avg_score": 0.5176470588235295,
+            "conversion_rate": 44.70588235294118,
+            "junk_rate": 10.588235294117647,
+            "top_terms": {
+              "ecommerce distribution": 29,
+              "ecommerce fulfillment": 28,
+              "amazon fba": 12
+            },
+            "top_locations": {
+              "": 46,
+              "Bhiwandi": 7,
+              "Ahmedabad": 5
+            }
+          },
+          "GW_Core_Ahmedabad": {
+            "total_leads": 62,
+            "avg_score": 3.096774193548387,
+            "conversion_rate": 58.06451612903226,
+            "junk_rate": 11.29032258064516,
+            "top_terms": {
+              "warehouse in ahmedabad": 31,
+              "warehouse in gujarat": 14,
+              "logistics companies in ahmedabad": 7
+            },
+            "top_locations": {
+              "": 34,
+              "Bangalore": 4,
+              "Bhiwandi": 3
+            }
+          },
+          "GW_Core_Hyderabad": {
+            "total_leads": 47,
+            "avg_score": 2.425531914893617,
+            "conversion_rate": 48.93617021276596,
+            "junk_rate": 12.76595744680851,
+            "top_terms": {
+              "warehouse in hyderabad": 30,
+              "logistics companies in hyderabad": 11,
+              "warehouse for rent in hyderabad": 6
+            },
+            "top_locations": {
+              "": 26,
+              "Hyderabad": 3,
+              "Bangalore": 2
+            }
+          },
+          "Lead-MaximiseConv": {
+            "total_leads": 261,
+            "avg_score": 1.7681992337164751,
+            "conversion_rate": 50.191570881226056,
+            "junk_rate": 20.306513409961685,
+            "top_terms": {
+              "3pl logistics services": 95,
+              "3pl services": 48,
+              "3pl providers": 35
+            },
+            "top_locations": {
+              "": 148,
+              "Bangalore": 17,
+              "Bhiwandi": 13
+            }
+          },
+          "GW_Core_Bengaluru": {
+            "total_leads": 163,
+            "avg_score": 1.0889570552147239,
+            "conversion_rate": 58.282208588957054,
+            "junk_rate": 12.883435582822086,
+            "top_terms": {
+              "warehouse in bangalore": 93,
+              "logistics service in bangalore": 22,
+              "logistics in bangalore": 18
+            },
+            "top_locations": {
+              "": 99,
+              "Bangalore": 8,
+              "Delhi": 7
+            }
+          },
+          "GW_Core_Pune": {
+            "total_leads": 38,
+            "avg_score": 3.9342105263157894,
+            "conversion_rate": 55.26315789473685,
+            "junk_rate": 26.31578947368421,
+            "top_terms": {
+              "warehouse in pune": 33,
+              "warehouse in chakan": 5
+            },
+            "top_locations": {
+              "": 24,
+              "Bangalore": 2,
+              "Pune": 2
+            }
+          },
+          "GW_Core_Bhiwandi_Mobile": {
+            "total_leads": 34,
+            "avg_score": 0.9558823529411765,
+            "conversion_rate": 61.76470588235294,
+            "junk_rate": 14.705882352941178,
+            "top_terms": {
+              "warehouse in mumbai": 15,
+              "warehouse in bhiwandi": 9,
+              "logistics companies in mumbai": 5
+            },
+            "top_locations": {
+              "": 18,
+              "Bangalore": 2,
+              "Chennai": 2
+            }
+          },
+          "GW_Core_Chennai": {
+            "total_leads": 63,
+            "avg_score": 3.0238095238095237,
+            "conversion_rate": 58.730158730158735,
+            "junk_rate": 19.047619047619047,
+            "top_terms": {
+              "warehouse in chennai": 34,
+              "logistics companies in chennai": 16,
+              "warehouse for rent in chennai": 9
+            },
+            "top_locations": {
+              "": 38,
+              "Chennai": 3,
+              "Bangalore": 3
+            }
+          },
+          "GW_Search_Brand": {
+            "total_leads": 65,
+            "avg_score": 0.8076923076923077,
+            "conversion_rate": 50.76923076923077,
+            "junk_rate": 18.461538461538463,
+            "top_terms": {
+              "godamwale": 60,
+              "godamwale logistics": 2,
+              "godamwale warehouse": 2
+            },
+            "top_locations": {
+              "": 37,
+              "Hyderabad": 4,
+              "Delhi": 3
+            }
+          },
+          "Lead_maximise": {
+            "total_leads": 4,
+            "avg_score": 0.625,
+            "conversion_rate": 75.0,
+            "junk_rate": 0.0,
+            "top_terms": {
+              "3pl logistics": 2,
+              "3pl providers": 1,
+              "3pl logistics services": 1
+            },
+            "top_locations": {
+              "Nagpur": 1,
+              "Nashik": 1,
+              "Ahmedabad": 1
+            }
+          },
+          "Warehouse_Lead": {
+            "total_leads": 197,
+            "avg_score": 1.8756345177664975,
+            "conversion_rate": 53.299492385786806,
+            "junk_rate": 13.19796954314721,
+            "top_terms": {
+              "warehouse for rent": 132,
+              "warehousing service": 46,
+              "looking for warehouse space": 8
+            },
+            "top_locations": {
+              "": 105,
+              "Bhiwandi": 11,
+              "Bangalore": 8
+            }
+          },
+          "Call_Only_Ads": {
+            "total_leads": 6,
+            "avg_score": 9.0,
+            "conversion_rate": 66.66666666666666,
+            "junk_rate": 0.0,
+            "top_terms": {
+              "3pl logistics services": 5,
+              "3pl logistics": 1
+            },
+            "top_locations": {
+              "": 3,
+              "Mumbai (Nhava Seva)": 1,
+              "Bangalore": 1
+            }
+          },
+          "GW_Core_Delhi": {
+            "total_leads": 109,
+            "avg_score": 2.0137614678899083,
+            "conversion_rate": 53.21100917431193,
+            "junk_rate": 16.51376146788991,
+            "top_terms": {
+              "warehouse in delhi": 44,
+              "warehouse in gurgaon": 24,
+              "warehouse in noida": 12
+            },
+            "top_locations": {
+              "": 65,
+              "Bangalore": 10,
+              "Bhiwandi": 5
+            }
+          },
+          "GW_Core_Kerala": {
+            "total_leads": 10,
+            "avg_score": 0.6,
+            "conversion_rate": 70.0,
+            "junk_rate": 10.0,
+            "top_terms": {
+              "warehouse in kochi": 4,
+              "logistics companies in kochi": 3,
+              "warehouse in kerala": 2
+            },
+            "top_locations": {
+              "": 4,
+              "Bhiwandi": 2,
+              "Ahmedabad": 1
+            }
+          },
+          "GW_Core_Bhiwandi": {
+            "total_leads": 102,
+            "avg_score": 0.39215686274509803,
+            "conversion_rate": 48.03921568627451,
+            "junk_rate": 21.568627450980394,
+            "top_terms": {
+              "warehouse in mumbai": 42,
+              "logistics companies in mumbai": 21,
+              "warehouse in bhiwandi": 17
+            },
+            "top_locations": {
+              "": 59,
+              "Bangalore": 6,
+              "Delhi": 4
+            }
+          },
+          "GW_Core_Kolkata": {
+            "total_leads": 33,
+            "avg_score": 3.787878787878788,
+            "conversion_rate": 45.45454545454545,
+            "junk_rate": 9.090909090909092,
+            "top_terms": {
+              "warehouse in kolkata": 14,
+              "logistics companies in kolkata": 9,
+              "warehouse for rent in guwahati": 5
+            },
+            "top_locations": {
+              "": 18,
+              "Bangalore": 3,
+              "Lucknow": 1
+            }
+          },
+          "FALSE": {
+            "total_leads": 2,
+            "avg_score": 1.0,
+            "conversion_rate": 100.0,
+            "junk_rate": 0.0,
+            "top_terms": {
+              "FALSE": 2
+            },
+            "top_locations": {
+              "Bangalore": 1,
+              "": 1
+            }
+          },
+          "Leads_MaximiseConv": {
+            "total_leads": 7,
+            "avg_score": 0.14285714285714285,
+            "conversion_rate": 71.42857142857143,
+            "junk_rate": 28.57142857142857,
+            "top_terms": {
+              "3pl logistics services": 3,
+              "amazon fba": 1,
+              "3pl warehouse": 1
+            },
+            "top_locations": {
+              "": 6,
+              "Mumbai, Nhava Seva": 1
+            }
+          },
+          "GW_Core_Bengaluru_Mobile": {
+            "total_leads": 12,
+            "avg_score": 0.9166666666666666,
+            "conversion_rate": 75.0,
+            "junk_rate": 50.0,
+            "top_terms": {
+              "warehouse in bangalore": 4,
+              "logistics in bangalore": 3,
+              "godown for rent bangalore": 3
+            },
+            "top_locations": {
+              "": 8,
+              "Bangalore": 2,
+              "Jaipur": 1
+            }
+          },
+          "Inciflo_Search_Brand": {
+            "total_leads": 9,
+            "avg_score": 0.8333333333333334,
+            "conversion_rate": 77.77777777777779,
+            "junk_rate": 22.22222222222222,
+            "top_terms": {
+              "warehouse management system": 4,
+              "inventory management software": 2,
+              "best wms": 1
+            },
+            "top_locations": {
+              "": 5,
+              "Pune": 1,
+              "Raipur": 1
+            }
+          },
+          "Listing_of_Warehouse": {
+            "total_leads": 1,
+            "avg_score": 0.0,
+            "conversion_rate": 0.0,
+            "junk_rate": 0.0,
+            "top_terms": {
+              "industrial warehouse for rent": 1
+            },
+            "top_locations": {
+              "": 1
+            }
+          }
+        },
+        "term_analysis": {
+          "warehouse for rent": {
+            "total_leads": 132,
+            "avg_score": 0.6666666666666666,
+            "conversion_rate": 50.75757575757576,
+            "primary_campaigns": {
+              "Warehouse_Lead": 132
+            },
+            "avg_area_requirement": 3298.1060606060605
+          },
+          "3pl logistics services": {
+            "total_leads": 104,
+            "avg_score": 1.4615384615384615,
+            "conversion_rate": 48.07692307692308,
+            "primary_campaigns": {
+              "Lead-MaximiseConv": 95,
+              "Call_Only_Ads": 5
+            },
+            "avg_area_requirement": 9345.192307692309
+          },
+          "warehouse in bangalore": {
+            "total_leads": 97,
+            "avg_score": 1.324742268041237,
+            "conversion_rate": 49.48453608247423,
+            "primary_campaigns": {
+              "GW_Core_Bengaluru": 93,
+              "GW_Core_Bengaluru_Mobile": 4
+            },
+            "avg_area_requirement": 5932.474226804124
+          },
+          "godamwale": {
+            "total_leads": 60,
+            "avg_score": 0.8583333333333333,
+            "conversion_rate": 51.66666666666667,
+            "primary_campaigns": {
+              "GW_Search_Brand": 60
+            },
+            "avg_area_requirement": 4263.333333333333
+          },
+          "warehouse in mumbai": {
+            "total_leads": 57,
+            "avg_score": 0.8771929824561403,
+            "conversion_rate": 54.385964912280706,
+            "primary_campaigns": {
+              "GW_Core_Bhiwandi": 42,
+              "GW_Core_Bhiwandi_Mobile": 15
+            },
+            "avg_area_requirement": 1129.8245614035088
+          },
+          "3pl services": {
+            "total_leads": 48,
+            "avg_score": 2.7916666666666665,
+            "conversion_rate": 54.166666666666664,
+            "primary_campaigns": {
+              "Lead-MaximiseConv": 48
+            },
+            "avg_area_requirement": 4760.416666666667
+          },
+          "warehousing service": {
+            "total_leads": 46,
+            "avg_score": 5.782608695652174,
+            "conversion_rate": 63.04347826086957,
+            "primary_campaigns": {
+              "Warehouse_Lead": 46
+            },
+            "avg_area_requirement": 2631.521739130435
+          },
+          "warehouse in delhi": {
+            "total_leads": 45,
+            "avg_score": 2.7555555555555555,
+            "conversion_rate": 57.77777777777777,
+            "primary_campaigns": {
+              "GW_Core_Delhi": 44,
+              "Leads_MaximiseConv": 1
+            },
+            "avg_area_requirement": 2784.4444444444443
+          },
+          "3pl providers": {
+            "total_leads": 36,
+            "avg_score": 2.5,
+            "conversion_rate": 58.333333333333336,
+            "primary_campaigns": {
+              "Lead-MaximiseConv": 35,
+              "Lead_maximise": 1
+            },
+            "avg_area_requirement": 847.2222222222222
+          },
+          "warehouse in chennai": {
+            "total_leads": 34,
+            "avg_score": 3.8529411764705883,
+            "conversion_rate": 55.88235294117647,
+            "primary_campaigns": {
+              "GW_Core_Chennai": 34
+            },
+            "avg_area_requirement": 2411.764705882353
+          },
+          "warehouse in pune": {
+            "total_leads": 33,
+            "avg_score": 4.46969696969697,
+            "conversion_rate": 60.60606060606061,
+            "primary_campaigns": {
+              "GW_Core_Pune": 33
+            },
+            "avg_area_requirement": 1580.3030303030303
+          },
+          "warehouse in ahmedabad": {
+            "total_leads": 31,
+            "avg_score": 0.5483870967741935,
+            "conversion_rate": 51.61290322580645,
+            "primary_campaigns": {
+              "GW_Core_Ahmedabad": 31
+            },
+            "avg_area_requirement": 977.4193548387096
+          },
+          "ecommerce fulfillment": {
+            "total_leads": 30,
+            "avg_score": 0.6333333333333333,
+            "conversion_rate": 46.666666666666664,
+            "primary_campaigns": {
+              "Ecommerce_Campaign": 28,
+              "Lead-MaximiseConv": 2
+            },
+            "avg_area_requirement": 2305.0
+          },
+          "warehouse in hyderabad": {
+            "total_leads": 30,
+            "avg_score": 2.8666666666666667,
+            "conversion_rate": 46.666666666666664,
+            "primary_campaigns": {
+              "GW_Core_Hyderabad": 30
+            },
+            "avg_area_requirement": 1530.0
+          },
+          "3pl warehouse": {
+            "total_leads": 29,
+            "avg_score": 0.3793103448275862,
+            "conversion_rate": 44.827586206896555,
+            "primary_campaigns": {
+              "Lead-MaximiseConv": 28,
+              "Leads_MaximiseConv": 1
+            },
+            "avg_area_requirement": 1072.4137931034484
+          },
+          "ecommerce distribution": {
+            "total_leads": 29,
+            "avg_score": 0.5689655172413793,
+            "conversion_rate": 37.93103448275862,
+            "primary_campaigns": {
+              "Ecommerce_Campaign": 29
+            },
+            "avg_area_requirement": 3106.896551724138
+          },
+          "warehouse in bhiwandi": {
+            "total_leads": 26,
+            "avg_score": 0.21153846153846154,
+            "conversion_rate": 46.15384615384615,
+            "primary_campaigns": {
+              "GW_Core_Bhiwandi": 17,
+              "GW_Core_Bhiwandi_Mobile": 9
+            },
+            "avg_area_requirement": 2911.5384615384614
+          },
+          "logistics companies in mumbai": {
+            "total_leads": 26,
+            "avg_score": 0.2692307692307692,
+            "conversion_rate": 50.0,
+            "primary_campaigns": {
+              "GW_Core_Bhiwandi": 21,
+              "GW_Core_Bhiwandi_Mobile": 5
+            },
+            "avg_area_requirement": 1961.5384615384614
+          },
+          "warehouse in gurgaon": {
+            "total_leads": 24,
+            "avg_score": 0.3125,
+            "conversion_rate": 50.0,
+            "primary_campaigns": {
+              "GW_Core_Delhi": 24
+            },
+            "avg_area_requirement": 3491.6666666666665
+          },
+          "logistics service in bangalore": {
+            "total_leads": 23,
+            "avg_score": 0.9565217391304348,
+            "conversion_rate": 73.91304347826086,
+            "primary_campaigns": {
+              "GW_Core_Bengaluru": 22,
+              "GW_Core_Bengaluru_Mobile": 1
+            },
+            "avg_area_requirement": 2843.478260869565
+          }
+        },
+        "campaign_term_combinations": {},
+        "performance_insights": [
+          "Campaign 'FALSE' converts at 100.0% vs 'Listing_of_Warehouse' at 0.0%",
+          "High-performing terms: logistics service in bangalore (73.9%), warehousing service (63.0%), warehouse in pune (60.6%)"
+        ]
+      },
+      "lead_journey_analysis": {
+        "journey_overview": {
+          "total_leads_in_journey": 1873,
+          "stage_distribution": {
+            "S0 - Lead Just Received": 981,
+            "": 349,
+            "Quote Sent - Quotation Sent": 186,
+            "S1 - Requirements Received": 113,
+            "Discussion on Requirement": 92,
+            "Open RFQ (Supply Needed/No Inventory)": 26,
+            "Discussion on Quotation": 22,
+            "Discussion": 20,
+            "Negotiation - Price & Terms Negotation": 15,
+            "Not Responding": 14,
+            "Requirement Postponed / Closed": 7,
+            "Site Visit": 7,
+            "Update Pending from Client": 6,
+            "Options not Sent": 4,
+            "Option Unavailable": 4,
+            "Agreement Done": 4,
+            "Converted": 3,
+            "Site Visit Done": 3,
+            "Demo Done": 3,
+            "Future Prospect": 2,
+            "High Pricing": 2,
+            "GST": 2,
+            "Site Visit Schedule": 2,
+            "Operation Live": 1,
+            "Quote Sent - Quotation Sent, Open RFQ (Supply Needed/No Inventory)": 1,
+            "Open RFQ (Supply Needed/No Inventory), Quote Sent - Quotation Sent": 1,
+            "Discussion on Quotation, Open RFQ (Supply Needed/No Inventory)": 1,
+            "Quotation Sent": 1,
+            "Demand not met": 1
+          },
+          "status_distribution": {
+            "Hot": 956,
+            "Junk": 349,
+            "Closed": 336,
+            "Cold": 191,
+            "Converted": 26,
+            "": 15
+          },
+          "conversion_rate": 52.42925787506674,
+          "loss_rate": 10.197544046983449
+        },
+        "stage_transitions": {},
+        "time_to_conversion": {
+          "avg_days_to_conversion": 28.924257932446263,
+          "median_days_to_conversion": 1.0,
+          "fastest_conversion_days": 0.0,
+          "slowest_conversion_days": 596.0
+        },
+        "journey_bottlenecks": [
+          "1774 leads (94.7%) have very low scores"
+        ],
+        "successful_journey_patterns": [
+          "'Web Mail' source shows 52.5% success rate"
+        ],
+        "journey_by_source": {
+          "": {
+            "total_leads": 125,
+            "conversion_rate": 57.6,
+            "avg_score": 1.26,
+            "top_final_status": "Hot"
+          },
+          "Web Mail": {
+            "total_leads": 1424,
+            "conversion_rate": 52.46,
+            "avg_score": 1.64,
+            "top_final_status": "Hot"
+          },
+          "Hot Line": {
+            "total_leads": 261,
+            "conversion_rate": 52.11,
+            "avg_score": 1.74,
+            "top_final_status": "Hot"
+          },
+          "Email Campaign": {
+            "total_leads": 34,
+            "conversion_rate": 38.24,
+            "avg_score": 1.32,
+            "top_final_status": "Hot"
+          }
+        },
+        "google_ads_campaign_journeys": {
+          "GW_Core_Ahmedabad": {
+            "total_leads": 51,
+            "conversion_rate": 56.86,
+            "junk_rate": 11.76,
+            "avg_score": 3.57
+          },
+          "": {
+            "total_leads": 310,
+            "conversion_rate": 50.0,
+            "junk_rate": 20.32,
+            "avg_score": 1.38
+          },
+          "GW_Core_Hyderabad": {
+            "total_leads": 33,
+            "conversion_rate": 51.52,
+            "junk_rate": 18.18,
+            "avg_score": 2.94
+          },
+          "GW_Core_Bengaluru": {
+            "total_leads": 120,
+            "conversion_rate": 55.0,
+            "junk_rate": 16.67,
+            "avg_score": 0.66
+          },
+          "Lead-MaximiseConv": {
+            "total_leads": 199,
+            "conversion_rate": 53.27,
+            "junk_rate": 22.11,
+            "avg_score": 1.93
+          },
+          "GW_Core_Pune": {
+            "total_leads": 28,
+            "conversion_rate": 60.71,
+            "junk_rate": 25.0,
+            "avg_score": 4.2
+          },
+          "GW_Core_Bhiwandi_Mobile": {
+            "total_leads": 30,
+            "conversion_rate": 56.67,
+            "junk_rate": 16.67,
+            "avg_score": 1.02
+          },
+          "GW_Core_Chennai": {
+            "total_leads": 48,
+            "conversion_rate": 54.17,
+            "junk_rate": 20.83,
+            "avg_score": 3.72
+          },
+          "GW_Search_Brand": {
+            "total_leads": 49,
+            "conversion_rate": 48.98,
+            "junk_rate": 18.37,
+            "avg_score": 0.78
+          },
+          "Ecommerce_Campaign": {
+            "total_leads": 61,
+            "conversion_rate": 42.62,
+            "junk_rate": 13.11,
+            "avg_score": 0.43
+          },
+          "Organic/Direct": {
+            "total_leads": 108,
+            "conversion_rate": 52.78,
+            "junk_rate": 17.59,
+            "avg_score": 1.47
+          },
+          "Warehouse_Lead": {
+            "total_leads": 160,
+            "conversion_rate": 52.5,
+            "junk_rate": 13.75,
+            "avg_score": 1.5
+          },
+          "GW_Core_Delhi": {
+            "total_leads": 88,
+            "conversion_rate": 54.55,
+            "junk_rate": 19.32,
+            "avg_score": 1.84
+          },
+          "GW_Core_Kerala": {
+            "total_leads": 8,
+            "conversion_rate": 75.0,
+            "junk_rate": 12.5,
+            "avg_score": 0.62
+          },
+          "GW_Core_Bhiwandi": {
+            "total_leads": 77,
+            "conversion_rate": 49.35,
+            "junk_rate": 22.08,
+            "avg_score": 0.4
+          },
+          "GW_Core_Kolkata": {
+            "total_leads": 24,
+            "conversion_rate": 37.5,
+            "junk_rate": 12.5,
+            "avg_score": 4.88
+          },
+          "Leads_MaximiseConv": {
+            "total_leads": 7,
+            "conversion_rate": 71.43,
+            "junk_rate": 28.57,
+            "avg_score": 0.14
+          },
+          "GW_Core_Bengaluru_Mobile": {
+            "total_leads": 8,
+            "conversion_rate": 87.5,
+            "junk_rate": 37.5,
+            "avg_score": 1.0
+          },
+          "Inciflo_Search_Brand": {
+            "total_leads": 8,
+            "conversion_rate": 87.5,
+            "junk_rate": 25.0,
+            "avg_score": 0.75
+          }
+        }
+      },
+      "data_samples": {
+        "high_quality_samples": [
+          {
+            "Campaign": "Organic/Direct",
+            "Term": "",
+            "Lead_Source": "",
+            "Contact_Type": "[\"3PL\",\"Warehouse\",\"E-commerce Fulfillment\",\"B2B distribution\",\"Supply chain software\",\"Joining our warehouse network\",\"",
+            "Status": "Hot",
+            "Score": 0.0,
+            "Location": "",
+            "Area_Requirement": 0.0,
+            "Notes": ""
+          },
+          {
+            "Campaign": "GW_Core_Ahmedabad",
+            "Term": "c&f agents",
+            "Lead_Source": "Web Mail",
+            "Contact_Type": "[\"3PL\",\"Warehouse\",\"E-commerce Fulfillment\",\"B2B distribution\",\"Supply chain software\",\"Joining our warehouse network\",\"",
+            "Status": "Hot",
+            "Score": 0.0,
+            "Location": "",
+            "Area_Requirement": 0.0,
+            "Notes": "[2025-09-26 10:36 by Shaila jadhav]\n9 digit contact no, email dropped"
+          },
+          {
+            "Campaign": "",
+            "Term": "",
+            "Lead_Source": "Web Mail",
+            "Contact_Type": "Transporter",
+            "Status": "Hot",
+            "Score": 0.0,
+            "Location": "",
+            "Area_Requirement": 0.0,
+            "Notes": "[2025-09-26 12:43 by Dhanashri Kulkarni]\n[10:28, 26/09/2025] +91 93555 14973: Mera pass Tata ace hai..."
+          }
+        ],
+        "junk_samples": [
+          {
+            "Campaign": "Lead-MaximiseConv",
+            "Term": "3pl",
+            "Lead_Source": "Web Mail",
+            "Contact_Type": "Junk",
+            "Status": "Hot",
+            "Score": 0.0,
+            "Location": "",
+            "Notes": "[2025-09-26 12:38 by Shaila jadhav]\nparcel tracking"
+          },
+          {
+            "Campaign": "Lead-MaximiseConv",
+            "Term": "3pl logistics services",
+            "Lead_Source": "Web Mail",
+            "Contact_Type": "Junk",
+            "Status": "Junk",
+            "Score": 0.0,
+            "Location": "",
+            "Notes": "[No Notes Found]"
+          },
+          {
+            "Campaign": "GW_Core_Bengaluru",
+            "Term": "warehouse in bangalore",
+            "Lead_Source": "Web Mail",
+            "Contact_Type": "Junk",
+            "Status": "Junk",
+            "Score": 0.0,
+            "Location": "",
+            "Notes": "[2025-09-26 17:16 by Shaila jadhav]\nkids doing inquiry"
+          }
+        ],
+        "google_ads_samples": [
+          {
+            "Campaign": "GW_Core_Ahmedabad",
+            "Term": "c&f agents",
+            "Contact_Type": "[\"3PL\",\"Warehouse\",\"E-commerce Fulfillment\",\"B2B distribution\",\"Supply chain software\",\"Joining our warehouse network\",\"",
+            "Status": "Hot",
+            "Score": 0.0,
+            "Area_Requirement": 0.0,
+            "Notes": "[2025-09-26 10:36 by Shaila jadhav]\n9 digit contact no, email dropped"
+          },
+          {
+            "Campaign": "",
+            "Term": "",
+            "Contact_Type": "Transporter",
+            "Status": "Hot",
+            "Score": 0.0,
+            "Area_Requirement": 0.0,
+            "Notes": "[2025-09-26 12:43 by Dhanashri Kulkarni]\n[10:28, 26/09/2025] +91 93555 14973: Mera pass Tata ace hai..."
+          },
+          {
+            "Campaign": "GW_Core_Hyderabad",
+            "Term": "logistics companies in hyderabad",
+            "Contact_Type": "SAAS",
+            "Status": "Hot",
+            "Score": 0.0,
+            "Area_Requirement": 0.0,
+            "Notes": "[2025-09-26 11:42 by Shaila jadhav]\nHe had own warehouse in Ahmedabad-10000sqft, in that warehouse h..."
+          }
+        ],
+        "conversion_samples": [],
+        "data_structure_sample": {
+          "total_records": 1873,
+          "columns_available": [
+            "Month Year",
+            "Formatted Time",
+            "Owner",
+            "Account Name",
+            "Title",
+            "Full Name",
+            "First Name",
+            "Last Name",
+            "Email",
+            "Mobile",
+            "Description",
+            "Contact Type",
+            "Lead Source",
+            "Lead Stage",
+            "Location",
+            "Business Type",
+            "Industry Type",
+            "Status",
+            "Area Requirement",
+            "Business Model",
+            "Reason",
+            "Priority",
+            "Notes",
+            "ID",
+            "Created By",
+            "Created Time",
+            "Modified By",
+            "Modified Time",
+            "Last Activity Time",
+            "Email Opt Out",
+            "Mailing Country",
+            "Mailing State",
+            "Mailing Street",
+            "Record Creation Source ID",
+            "Record Image",
+            "Tag",
+            "Unsubscribed Mode",
+            "Unsubscribed Time",
+            "Locations",
+            "Last Activity Date",
+            "Campaign",
+            "Term",
+            "Medium",
+            "Content",
+            "Score",
+            "Hour",
+            "DayOfWeek"
+          ],
+          "date_range": "March 2025 to September 2025",
+          "unique_campaigns": 23,
+          "unique_terms": 90,
+          "lead_sources": {
+            "Web Mail": 1424,
+            "Hot Line": 261,
+            "": 125,
+            "Email Campaign": 34,
+            "Employee Referral": 9,
+            "External Referral": 7,
+            "Lead Board": 6,
+            "Partner Referral": 3,
+            "Sales Email Alias": 1,
+            "Chat": 1,
+            "LinkedIN": 1,
+            "India Mart": 1
+          },
+          "contact_types": {
+            "3pl": 518,
+            "Lead (Standalone )": 425,
+            "Junk": 314,
+            "Listing-Warehouse": 168,
+            "Job": 91,
+            "Logistics": 71,
+            "Listing-land": 69,
+            "SAAS": 40,
+            "": 39,
+            "Transporter": 29,
+            "Warehouse": 28,
+            "Duplicate Entry / Contact Us Submitted Again": 25,
+            "PTL - Vendor / Aggregator": 14,
+            "Joining our warehouse network": 12,
+            "Listing-3PL": 6,
+            "Broker Lead": 5,
+            "Cold Storage": 4,
+            "[\"3PL\",\"Warehouse\",\"E-commerce Fulfillment\",\"B2B distribution\",\"Supply chain software\",\"Joining our warehouse network\",\"": 3,
+            "Listing-Broker": 3,
+            "E-commerce Fulfillment": 3,
+            "[\"Warehouse\",\"Joining our warehouse network\"]": 1,
+            "[\"3PL\",\"E-commerce Fulfillment\"]": 1,
+            "[\"Warehouse\",\"E-commerce Fulfillment\",\"Joining our warehouse network\"]": 1,
+            "[\"3PL\",\"Warehouse\"]": 1,
+            "Discovery Call": 1,
+            "Supply chain software": 1
+          }
+        }
+      },
+      "quality_indicators": [
+        "Only 0.5% of scored leads are high quality (Score >70)",
+        "16.8% of all leads are classified as Junk",
+        "Google Ads (Web Mail) leads have 18.5% junk rate"
+      ]
+    },
+    "cross_channel_analysis": {
+      "cost_per_lead": {
+        "March 2025": 742.756043956044,
+        "May 2025": 484.7525925925926,
+        "September 2025": 669.9744279946165
+      },
+      "monthly_correlation": {
+        "cost_per_lead_data": {
+          "March 2025": 742.756043956044,
+          "May 2025": 484.7525925925926,
+          "September 2025": 669.9744279946165
+        },
+        "average_cost_per_lead": 632.494354847751,
+        "most_efficient_month": "May 2025",
+        "least_efficient_month": "March 2025",
+        "insights": [
+          "Average cost per lead: $632.49",
+          "Most efficient: May 2025 ($484.75 per lead)",
+          "Least efficient: March 2025 ($742.76 per lead)"
+        ]
+      },
+      "roi_analysis": {
+        "cost_per_lead_by_month": {
+          "March 2025": 742.756043956044,
+          "May 2025": 484.7525925925926,
+          "September 2025": 669.9744279946165
+        },
+        "average_cost_per_lead": 632.494354847751,
+        "cost_per_lead_trend": "stable"
+      },
+      "efficiency_insights": [
+        "Average cost per lead: $632.49",
+        "Most efficient: May 2025 ($484.75 per lead)",
+        "Least efficient: March 2025 ($742.76 per lead)"
+      ]
+    }
+  },
+  "timestamp": "2025-09-29T10:40:50.321239",
+  "expires_at": "2025-09-29T10:55:50.321254"
+}

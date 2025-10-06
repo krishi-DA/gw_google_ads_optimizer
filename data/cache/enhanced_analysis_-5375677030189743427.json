@@ -1,0 +1,88 @@
+{
+  "result": {
+    "campaign_analysis": {
+      "overall_metrics": {
+        "total_spend": 0.0,
+        "total_daily_budget": 0.0,
+        "budget_utilization": 0.0,
+        "total_impressions": 0,
+        "total_clicks": 0,
+        "total_conversions": 0,
+        "overall_ctr": 0.0,
+        "overall_conversion_rate": 0.0,
+        "overall_cpc": 0.0,
+        "overall_cost_per_conversion": 0.0,
+        "active_campaigns": 0
+      },
+      "monthly_trends": {
+        "monthly_data": {},
+        "best_month": "Unknown",
+        "worst_month": "Unknown"
+      },
+      "budget_efficiency": {
+        "average_budget_utilization": 0.0,
+        "total_cost": 0.0,
+        "total_daily_budget": 0.0,
+        "efficiency_by_month": {},
+        "underutilized_months": [],
+        "well_utilized_months": [],
+        "over_utilized_months": [],
+        "optimal_range_months": 0,
+        "budget_recommendations": []
+      },
+      "device_performance": {
+        "device_metrics": {
+          "mobile": {
+            "clicks": 0,
+            "impressions": 0,
+            "cost": 0.0,
+            "conversions": 0
+          },
+          "desktop": {
+            "clicks": 0,
+            "impressions": 0,
+            "cost": 0.0,
+            "conversions": 0
+          },
+          "tablet": {
+            "clicks": 0,
+            "impressions": 0,
+            "cost": 0.0,
+            "conversions": 0
+          }
+        },
+        "best_performing_device": "unknown",
+        "total_clicks": 0,
+        "total_cost": 0.0,
+        "total_conversions": 0
+      },
+      "campaign_insights": [],
+      "recommendations": [],
+      "data_summary": {
+        "error": "'CampaignCRMAnalyzer' object has no attribute '_generate_campaign_insights'"
+      },
+      "data_anomalies": [],
+      "performance_patterns": {},
+      "campaign_specific_insights": {}
+    },
+    "crm_analysis": {
+      "lead_metrics": {
+        "total_leads": 0,
+        "average_monthly_leads": 0
+      },
+      "lead_quality": {
+        "quality_percentage": 0
+      },
+      "source_analysis": {
+        "source_distribution": {}
+      },
+      "conversion_funnel": {},
+      "geographic_insights": {},
+      "temporal_patterns": {},
+      "recommendations": [],
+      "error": "'CampaignCRMAnalyzer' object has no attribute '_analyze_conversion_funnel'"
+    }
+  },
+  "timestamp": "2025-09-27T13:53:18.327952",
+  "expires_at": "2025-09-27T14:08:18.327963"
+}

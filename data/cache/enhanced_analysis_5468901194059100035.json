@@ -1,0 +1,230 @@
+{
+  "result": {
+    "campaign_analysis": {
+      "data_available": true,
+      "overview": {
+        "total_spend": 3307805.0,
+        "total_daily_budget": 4900040.0,
+        "budget_utilization": 67.5056734230741,
+        "total_impressions": 709909,
+        "total_clicks": 71049,
+        "total_conversions": 4025,
+        "overall_ctr": 10.008184147545672,
+        "overall_conversion_rate": 5.66510436459345,
+        "overall_cpc": 46.55667215583611,
+        "overall_cost_per_conversion": 821.8149068322981,
+        "active_campaigns": 0
+      },
+      "monthly_performance": {
+        "total_months": 9,
+        "best_month": "April 2025",
+        "worst_month": "April 2025",
+        "monthly_data": [
+          {
+            "Month": "April 2025",
+            "Cost": 409725.0,
+            "Conversions": 526.0,
+            "Conversion Rate": 0.0
+          },
+          {
+            "Month": "August 2025",
+            "Cost": 457101.0,
+            "Conversions": 468.0,
+            "Conversion Rate": 0.0
+          },
+          {
+            "Month": "February 2025",
+            "Cost": 209830.0,
+            "Conversions": 205.0,
+            "Conversion Rate": 0.0
+          },
+          {
+            "Month": "January 2025",
+            "Cost": 201777.0,
+            "Conversions": 336.0,
+            "Conversion Rate": 0.0
+          },
+          {
+            "Month": "July 2025",
+            "Cost": 483260.0,
+            "Conversions": 581.0,
+            "Conversion Rate": 0.0
+          },
+          {
+            "Month": "June 2025",
+            "Cost": 363559.0,
+            "Conversions": 465.0,
+            "Conversion Rate": 0.0
+          },
+          {
+            "Month": "March 2025",
+            "Cost": 337954.0,
+            "Conversions": 451.0,
+            "Conversion Rate": 0.0
+          },
+          {
+            "Month": "May 2025",
+            "Cost": 327208.0,
+            "Conversions": 466.0,
+            "Conversion Rate": 0.0
+          },
+          {
+            "Month": "September 2025",
+            "Cost": 517391.0,
+            "Conversions": 527.0,
+            "Conversion Rate": 0.0
+          }
+        ]
+      },
+      "budget_analysis": {
+        "total_spend": 3307805.0,
+        "total_budget": 4900040.0,
+        "utilization_percent": 67.5056734230741,
+        "status": "Under-utilized"
+      },
+      "device_insights": {
+        "mobile": {
+          "clicks": 47316,
+          "conversions": 2092,
+          "conversion_rate": 4.4213373911573255,
+          "cost": 1569150.4099999997
+        },
+        "desktop": {
+          "clicks": 23515,
+          "conversions": 1918,
+          "conversion_rate": 8.156495853710398,
+          "cost": 1725158.5299999998
+        },
+        "tablet": {
+          "clicks": 218,
+          "conversions": 15,
+          "conversion_rate": 6.8807339449541285,
+          "cost": 13478.18
+        }
+      },
+      "recommendations": [
+        "Increase daily budget allocation in February 2025, January 2025, July 2025 to maximize opportunity",
+        "Focus optimization efforts on desktop campaigns based on performance"
+      ]
+    },
+    "crm_analysis": {
+      "data_available": true,
+      "overview": {
+        "total_leads": 5669,
+        "avg_score": 1.4171811606985358,
+        "google_ads_leads": 4343,
+        "junk_leads": 995,
+        "conversion_rate": 53.501499382607165
+      },
+      "lead_quality": {
+        "high_quality_count": 24,
+        "quality_percentage": 0.42335508908096664,
+        "avg_score": 1.4171811606985358,
+        "score_distribution": {
+          "high_score_70_plus": 24,
+          "medium_score_30_70": 35,
+          "low_score_below_30": 5610
+        }
+      },
+      "source_performance": {
+        "source_distribution": {
+          "Web Mail": 4343,
+          "Hot Line": 827,
+          "": 325,
+          "Email Campaign": 94,
+          "External Referral": 24,
+          "Employee Referral": 22,
+          "Lead Board": 15,
+          "Web Research": 7,
+          "Partner Referral": 4,
+          "LinkedIN": 2,
+          "Chat": 2,
+          "Sales Email Alias": 1,
+          "Google+": 1,
+          "Advertisement": 1,
+          "India Mart": 1
+        },
+        "top_sources": {
+          "Web Mail": 4343,
+          "Hot Line": 827,
+          "": 325,
+          "Email Campaign": 94,
+          "External Referral": 24
+        }
+      },
+      "google_ads_analysis": {
+        "total_google_ads_leads": 4343,
+        "junk_rate": 20.377619157264565,
+        "avg_score": 1.3656458669122726,
+        "top_campaigns": {
+          "": 988,
+          "Lead-MaximiseConv": 637,
+          "Warehouse_Lead": 522,
+          "Organic/Direct": 315,
+          "GW_Core_Bhiwandi": 254
+        },
+        "top_terms": {
+          "": 1303,
+          "warehouse for rent": 379,
+          "3pl logistics services": 204,
+          "warehouse in bangalore": 178,
+          "warehouse in mumbai": 162
+        }
+      },
+      "contact_type_analysis": {
+        "3pl": {
+          "count": 1471,
+          "percentage": 25.948139001587585,
+          "avg_score": 1.4187627464309993,
+          "conversion_rate": 30.455472467709043
+        },
+        "Lead (Standalone )": {
+          "count": 1319,
+          "percentage": 23.266890104074793,
+          "avg_score": 1.3718726307808946,
+          "conversion_rate": 76.95223654283548
+        },
+        "Junk": {
+          "count": 995,
+          "percentage": 17.551596401481742,
+          "avg_score": 1.1904522613065327,
+          "conversion_rate": 58.59296482412061
+        },
+        "Listing-Warehouse": {
+          "count": 604,
+          "percentage": 10.654436408537661,
+          "avg_score": 1.4205298013245033,
+          "conversion_rate": 34.93377483443709
+        },
+        "Job": {
+          "count": 265,
+          "percentage": 4.6745457752690065,
+          "avg_score": 2.690566037735849,
+          "conversion_rate": 71.69811320754717
+        }
+      },
+      "recommendations": [
+        "Lead quality is critically low - review targeting and qualification criteria"
+      ]
+    },
+    "cross_channel_analysis": {
+      "data_available": true,
+      "cost_per_lead_by_month": {
+        "April 2025": 542.682119205298,
+        "August 2025": 663.4267053701016,
+        "February 2025": 624.4940476190476,
+        "January 2025": 530.9921052631579,
+        "July 2025": 567.8730904817861,
+        "June 2025": 463.1324840764331,
+        "March 2025": 742.756043956044,
+        "May 2025": 484.7525925925926,
+        "September 2025": 696.3539703903095
+      },
+      "average_cost_per_lead": 590.7181287727523,
+      "best_efficiency_month": "June 2025",
+      "worst_efficiency_month": "March 2025"
+    }
+  },
+  "timestamp": "2025-09-30T17:48:28.572223",
+  "expires_at": "2025-09-30T18:03:28.572231"
+}

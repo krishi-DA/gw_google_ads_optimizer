@@ -1,0 +1,16 @@
+streamlit
+pandas
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+gspread
+openai
+anthropic
+python-dotenv
+plotly
+seaborn
+matplotlib
+numpy
+datetime
+tabulate
+textblob

@@ -1,0 +1,185 @@
+{
+  "result": {
+    "campaign_analysis": {
+      "data_available": true,
+      "overview": {
+        "total_spend": 883245.0,
+        "total_daily_budget": 1277970.0,
+        "budget_utilization": 69.11312472123758,
+        "total_impressions": 198169,
+        "total_clicks": 18570,
+        "total_conversions": 1043,
+        "overall_ctr": 9.37078957859201,
+        "overall_conversion_rate": 5.616585891222401,
+        "overall_cpc": 47.56300484652665,
+        "overall_cost_per_conversion": 846.8312559923298,
+        "active_campaigns": 0
+      },
+      "monthly_performance": {
+        "total_months": 3,
+        "best_month": "May 2025",
+        "worst_month": "May 2025",
+        "monthly_data": [
+          {
+            "Month": "May 2025",
+            "Cost": 327208.0,
+            "Conversions": 466.0,
+            "Conversion Rate": 0.0
+          },
+          {
+            "Month": "October 2025",
+            "Cost": 23437.0,
+            "Conversions": 30.0,
+            "Conversion Rate": 0.0
+          },
+          {
+            "Month": "September 2025",
+            "Cost": 532600.0,
+            "Conversions": 547.0,
+            "Conversion Rate": 0.0
+          }
+        ]
+      },
+      "budget_analysis": {
+        "total_spend": 883245.0,
+        "total_budget": 1277970.0,
+        "utilization_percent": 69.11312472123758,
+        "status": "Under-utilized"
+      },
+      "device_insights": {
+        "mobile": {
+          "clicks": 12517,
+          "conversions": 570,
+          "conversion_rate": 4.553806822721099,
+          "cost": 434723.17
+        },
+        "desktop": {
+          "clicks": 6000,
+          "conversions": 470,
+          "conversion_rate": 7.833333333333334,
+          "cost": 445237.45
+        },
+        "tablet": {
+          "clicks": 53,
+          "conversions": 3,
+          "conversion_rate": 5.660377358490567,
+          "cost": 3289.3900000000003
+        }
+      },
+      "recommendations": [
+        "Increase daily budget allocation in May 2025, October 2025 to maximize opportunity",
+        "Focus optimization efforts on desktop campaigns based on performance"
+      ]
+    },
+    "crm_analysis": {
+      "data_available": true,
+      "overview": {
+        "total_leads": 1504,
+        "avg_score": 1.993683510638298,
+        "google_ads_leads": 1105,
+        "junk_leads": "260",
+        "high_quality_leads": 811,
+        "conversion_rate": 55.25265957446809
+      },
+      "lead_quality": {
+        "high_quality_count": 811,
+        "quality_percentage": 53.922872340425535,
+        "avg_score": 1.993683510638298,
+        "score_distribution": {
+          "high_score_above_0": 811,
+          "zero_score": 693,
+          "junk_leads": "260"
+        },
+        "junk_count": "260",
+        "junk_rate": 17.287234042553195
+      },
+      "source_performance": {
+        "source_distribution": {
+          "Web Mail": 1105,
+          "Hot Line": 257,
+          "": 96,
+          "Email Campaign": 26,
+          "Lead Board": 6,
+          "External Referral": 5,
+          "Employee Referral": 4,
+          "Partner Referral": 3,
+          "Sales Email Alias": 1,
+          "Chat": 1
+        },
+        "top_sources": {
+          "Web Mail": 1105,
+          "Hot Line": 257,
+          "": 96,
+          "Email Campaign": 26,
+          "Lead Board": 6
+        }
+      },
+      "google_ads_analysis": {
+        "total_google_ads_leads": 1105,
+        "junk_rate": 19.09502262443439,
+        "avg_score": 1.8407239819004524,
+        "top_campaigns": {
+          "": 232,
+          "Lead-MaximiseConv": 179,
+          "Organic/Direct": 87,
+          "GW_Core_Bengaluru": 85,
+          "Warehouse_Lead": 80
+        },
+        "top_terms": {
+          "": 319,
+          "3pl logistics services": 72,
+          "warehouse for rent": 59,
+          "warehouse in bangalore": 45,
+          "3pl services": 44
+        }
+      },
+      "contact_type_analysis": {
+        "3pl": {
+          "count": 413,
+          "percentage": 27.460106382978722,
+          "avg_score": 2.2736077481840193,
+          "conversion_rate": 53.026634382566584
+        },
+        "Lead (Standalone )": {
+          "count": 324,
+          "percentage": 21.54255319148936,
+          "avg_score": 2.0354938271604937,
+          "conversion_rate": 79.62962962962963
+        },
+        "Junk": {
+          "count": 260,
+          "percentage": 17.287234042553195,
+          "avg_score": 1.8826923076923077,
+          "conversion_rate": 37.69230769230769
+        },
+        "Listing-Warehouse": {
+          "count": 117,
+          "percentage": 7.779255319148937,
+          "avg_score": 1.1794871794871795,
+          "conversion_rate": 44.44444444444444
+        },
+        "Job": {
+          "count": 92,
+          "percentage": 6.117021276595745,
+          "avg_score": 1.809782608695652,
+          "conversion_rate": 51.08695652173913
+        }
+      },
+      "recommendations": [
+        "Lead quality is critically low - review targeting and qualification criteria"
+      ]
+    },
+    "cross_channel_analysis": {
+      "data_available": true,
+      "cost_per_lead_by_month": {
+        "May 2025": 484.7525925925926,
+        "September 2025": 642.4607961399277
+      },
+      "average_cost_per_lead": 563.6066943662602,
+      "best_efficiency_month": "May 2025",
+      "worst_efficiency_month": "September 2025"
+    }
+  },
+  "timestamp": "2025-10-03T18:26:47.130723",
+  "expires_at": "2025-10-03T18:41:47.130731"
+}

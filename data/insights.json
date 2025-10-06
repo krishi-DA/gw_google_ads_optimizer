@@ -1,0 +1,14 @@
+{
+  "question_types": {
+    "cost_optimization": 12
+  },
+  "common_patterns": {
+    "campaign": 12,
+    "lead": 12,
+    "3pl": 12,
+    "budget": 12,
+    "optimize": 12
+  },
+  "last_updated": "2025-09-24T11:23:48.835307",
+  "total_conversations": 12
+}

@@ -1,0 +1,316 @@
+{
+  "result": {
+    "campaign_analysis": {
+      "overall_metrics": {
+        "total_spend": 3275712.0,
+        "total_daily_budget": 4851130.0,
+        "budget_utilization": 67.52472104437523,
+        "total_impressions": 701732,
+        "total_clicks": 70337,
+        "total_conversions": 3987,
+        "overall_ctr": 10.023342244617602,
+        "overall_conversion_rate": 5.6684248688457,
+        "overall_cpc": 46.571676358104554,
+        "overall_cost_per_conversion": 821.5981941309255,
+        "active_campaigns": 141
+      },
+      "monthly_trends": {
+        "monthly_data": {
+          "April 2025": {
+            "cost": 409725.0,
+            "daily_budget": 445200.0,
+            "budget_utilization": 92.03167115902964,
+            "conversions": 526,
+            "clicks": 8714,
+            "conversion_rate": 6.036263484048657
+          },
+          "August 2025": {
+            "cost": 457101.0,
+            "daily_budget": 539320.0,
+            "budget_utilization": 84.75506192983757,
+            "conversions": 468,
+            "clicks": 10425,
+            "conversion_rate": 4.489208633093525,
+            "cost_change_pct": 11.56287753981329,
+            "conversion_change_pct": -11.02661596958175
+          },
+          "February 2025": {
+            "cost": 209830.0,
+            "daily_budget": 445020.0,
+            "budget_utilization": 47.15068985663566,
+            "conversions": 205,
+            "clicks": 4481,
+            "conversion_rate": 4.574871680428476,
+            "cost_change_pct": -54.09548436778743,
+            "conversion_change_pct": -56.1965811965812
+          },
+          "January 2025": {
+            "cost": 201777.0,
+            "daily_budget": 460990.0,
+            "budget_utilization": 43.77036378229462,
+            "conversions": 336,
+            "clicks": 4859,
+            "conversion_rate": 6.9150030870549495,
+            "cost_change_pct": -3.8378687508935805,
+            "conversion_change_pct": 63.90243902439025
+          },
+          "July 2025": {
+            "cost": 483260.0,
+            "daily_budget": 643640.0,
+            "budget_utilization": 75.08234416754708,
+            "conversions": 581,
+            "clicks": 10104,
+            "conversion_rate": 5.7501979414093425,
+            "cost_change_pct": 139.50202451220903,
+            "conversion_change_pct": 72.91666666666666
+          },
+          "June 2025": {
+            "cost": 363559.0,
+            "daily_budget": 612400.0,
+            "budget_utilization": 59.36626387981712,
+            "conversions": 465,
+            "clicks": 7624,
+            "conversion_rate": 6.09916054564533,
+            "cost_change_pct": -24.769482266274885,
+            "conversion_change_pct": -19.965576592082616
+          },
+          "March 2025": {
+            "cost": 337954.0,
+            "daily_budget": 548490.0,
+            "budget_utilization": 61.615343944283396,
+            "conversions": 451,
+            "clicks": 7120,
+            "conversion_rate": 6.334269662921348,
+            "cost_change_pct": -7.042873371309747,
+            "conversion_change_pct": -3.010752688172043
+          },
+          "May 2025": {
+            "cost": 327208.0,
+            "daily_budget": 589290.0,
+            "budget_utilization": 55.5258022365898,
+            "conversions": 466,
+            "clicks": 6451,
+            "conversion_rate": 7.223686250193769,
+            "cost_change_pct": -3.1797226841522805,
+            "conversion_change_pct": 3.325942350332594
+          },
+          "September 2025": {
+            "cost": 485298.0,
+            "daily_budget": 566780.0,
+            "budget_utilization": 85.62369878965383,
+            "conversions": 489,
+            "clicks": 10559,
+            "conversion_rate": 4.6311203712472775,
+            "cost_change_pct": 48.31483337815701,
+            "conversion_change_pct": 4.935622317596566
+          }
+        },
+        "best_month": "May 2025",
+        "worst_month": "August 2025"
+      },
+      "budget_efficiency": {
+        "average_budget_utilization": 67.52472104437523,
+        "total_cost": 3275712.0,
+        "total_daily_budget": 4851130.0,
+        "efficiency_by_month": {
+          "April 2025": 92.03167115902964,
+          "August 2025": 84.75506192983757,
+          "February 2025": 47.15068985663566,
+          "January 2025": 43.77036378229462,
+          "July 2025": 75.08234416754708,
+          "June 2025": 59.36626387981712,
+          "March 2025": 61.615343944283396,
+          "May 2025": 55.5258022365898,
+          "September 2025": 85.62369878965383
+        },
+        "underutilized_months": [
+          "February 2025",
+          "January 2025",
+          "July 2025",
+          "June 2025",
+          "March 2025",
+          "May 2025"
+        ],
+        "well_utilized_months": [
+          "April 2025",
+          "August 2025",
+          "September 2025"
+        ],
+        "over_utilized_months": [],
+        "optimal_range_months": 3,
+        "budget_recommendations": [
+          "February 2025: Increase daily budget by 20-30% to capture missed opportunities",
+          "January 2025: Increase daily budget by 20-30% to capture missed opportunities",
+          "June 2025: Increase daily budget by 20-30% to capture missed opportunities",
+          "March 2025: Increase daily budget by 20-30% to capture missed opportunities",
+          "May 2025: Increase daily budget by 20-30% to capture missed opportunities"
+        ]
+      },
+      "device_performance": {
+        "device_metrics": {
+          "mobile": {
+            "clicks": 46819,
+            "impressions": 460026,
+            "cost": 1553321.2499999998,
+            "conversions": 2070,
+            "click_share": 66.56382842600622,
+            "cost_share": 47.41954157454866,
+            "conversion_share": 51.91873589164786,
+            "ctr": 10.177468230056562,
+            "cpc": 33.17715564194023,
+            "conversion_rate": 4.421281958179372,
+            "cost_per_conversion": 750.3967391304346
+          },
+          "desktop": {
+            "clicks": 23303,
+            "impressions": 239781,
+            "cost": 1709017.93,
+            "conversions": 1902,
+            "click_share": 33.13050030567127,
+            "cost_share": 52.17262480847673,
+            "conversion_share": 47.70504138449962,
+            "ctr": 9.718451420254315,
+            "cpc": 73.33896622752435,
+            "conversion_rate": 8.162039222417715,
+            "cost_per_conversion": 898.5372923238696
+          },
+          "tablet": {
+            "clicks": 215,
+            "impressions": 1925,
+            "cost": 13359.400000000001,
+            "conversions": 15,
+            "click_share": 0.3056712683225045,
+            "cost_share": 0.407833616974612,
+            "conversion_share": 0.3762227238525207,
+            "ctr": 11.168831168831169,
+            "cpc": 62.13674418604652,
+            "conversion_rate": 6.976744186046512,
+            "cost_per_conversion": 890.6266666666668
+          }
+        },
+        "best_performing_device": "desktop",
+        "total_clicks": 70337,
+        "total_cost": 3275698.5799999996,
+        "total_conversions": 3987
+      },
+      "campaign_insights": [
+        "Total spend: $3,275,712 against $4,851,130 daily budget (67.5% utilization)",
+        "Budget underutilized: 32.5% of daily budget remains unused",
+        "Generated 3,987 total conversions across all campaigns",
+        "Average conversion rate: 5.78%"
+      ],
+      "recommendations": [
+        "Increase daily budget allocation in February 2025, January 2025, July 2025 to maximize opportunity",
+        "Focus optimization efforts on desktop campaigns based on performance"
+      ],
+      "data_summary": {
+        "campaign_records": 3632,
+        "crm_records": 5669,
+        "months_analyzed": 9
+      },
+      "data_anomalies": [
+        "CRITICAL: Severe budget underutilization in ['February 2025', 'January 2025'] - less than 50% utilization",
+        "ALERT: Conversion rate dropped 30%+ in September 2025",
+        "CRITICAL: Average lead score only 1.4 - targeting issues"
+      ],
+      "performance_patterns": [
+        "INSIGHT: Desktop shows 8.16% conversion rate - 4.1x better than average",
+        "SEASONAL: May 2025, January 2025, March 2025 consistently outperform August 2025, February 2025, September 2025",
+        "QUALITY: Employee Referral leads average 4.8 score vs Web Research at 0.0",
+        "Pattern discovery error: '>' not supported between instances of 'str' and 'int'"
+      ],
+      "campaign_specific_insights": {
+        "error": "unsupported operand type(s) for +: 'int' and 'str'"
+      }
+    },
+    "crm_analysis": {
+      "error": "'CampaignCRMAnalyzer' object has no attribute '_analyze_lead_journey_patterns'",
+      "lead_metrics": {
+        "total_leads": 0,
+        "average_monthly_leads": 0,
+        "average_score": 0,
+        "lead_trend": "No data"
+      },
+      "lead_quality": {
+        "quality_percentage": 0,
+        "stage_distribution": {},
+        "score_analysis": {}
+      },
+      "source_analysis": {
+        "source_distribution": {},
+        "top_sources": []
+      },
+      "conversion_funnel": {
+        "funnel_stages": {},
+        "conversion_rates": {}
+      },
+      "geographic_insights": {
+        "location_distribution": {},
+        "top_locations": []
+      },
+      "temporal_patterns": {
+        "hourly_patterns": {},
+        "daily_patterns": {}
+      },
+      "recommendations": [
+        "No CRM data available"
+      ]
+    },
+    "cross_channel_analysis": {
+      "cost_per_lead": {
+        "April 2025": 542.682119205298,
+        "August 2025": 663.4267053701016,
+        "February 2025": 624.4940476190476,
+        "January 2025": 530.9921052631579,
+        "July 2025": 567.8730904817861,
+        "June 2025": 463.1324840764331,
+        "March 2025": 742.756043956044,
+        "May 2025": 484.7525925925926,
+        "September 2025": 653.1601615074024
+      },
+      "monthly_correlation": {
+        "cost_per_lead_data": {
+          "April 2025": 542.682119205298,
+          "August 2025": 663.4267053701016,
+          "February 2025": 624.4940476190476,
+          "January 2025": 530.9921052631579,
+          "July 2025": 567.8730904817861,
+          "June 2025": 463.1324840764331,
+          "March 2025": 742.756043956044,
+          "May 2025": 484.7525925925926,
+          "September 2025": 653.1601615074024
+        },
+        "average_cost_per_lead": 585.9188166746515,
+        "most_efficient_month": "June 2025",
+        "least_efficient_month": "March 2025",
+        "insights": [
+          "Average cost per lead: $585.92",
+          "Most efficient: June 2025 ($463.13 per lead)",
+          "Least efficient: March 2025 ($742.76 per lead)"
+        ]
+      },
+      "roi_analysis": {
+        "cost_per_lead_by_month": {
+          "April 2025": 542.682119205298,
+          "August 2025": 663.4267053701016,
+          "February 2025": 624.4940476190476,
+          "January 2025": 530.9921052631579,
+          "July 2025": 567.8730904817861,
+          "June 2025": 463.1324840764331,
+          "March 2025": 742.756043956044,
+          "May 2025": 484.7525925925926,
+          "September 2025": 653.1601615074024
+        },
+        "average_cost_per_lead": 585.9188166746515,
+        "cost_per_lead_trend": "stable"
+      },
+      "efficiency_insights": [
+        "Average cost per lead: $585.92",
+        "Most efficient: June 2025 ($463.13 per lead)",
+        "Least efficient: March 2025 ($742.76 per lead)"
+      ]
+    }
+  },
+  "timestamp": "2025-09-27T15:22:30.177255",
+  "expires_at": "2025-09-27T15:37:30.177260"
+}

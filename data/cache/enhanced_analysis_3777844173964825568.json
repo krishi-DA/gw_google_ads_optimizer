@@ -1,0 +1,382 @@
+{
+  "result": {
+    "campaign_analysis": {
+      "overall_metrics": {
+        "total_spend": 1150460.0,
+        "total_daily_budget": 1704560.0,
+        "budget_utilization": 67.49307739240625,
+        "total_impressions": 239718,
+        "total_clicks": 24130,
+        "total_conversions": 1406,
+        "overall_ctr": 10.065994209863256,
+        "overall_conversion_rate": 5.826771653543307,
+        "overall_cpc": 47.677579776212184,
+        "overall_cost_per_conversion": 818.2503556187767,
+        "active_campaigns": 0
+      },
+      "monthly_trends": {
+        "monthly_data": {
+          "March 2025": {
+            "cost": 337954.0,
+            "daily_budget": 548490.0,
+            "budget_utilization": 61.615343944283396,
+            "conversions": 451,
+            "clicks": 7120,
+            "conversion_rate": 6.334269662921348
+          },
+          "May 2025": {
+            "cost": 327208.0,
+            "daily_budget": 589290.0,
+            "budget_utilization": 55.5258022365898,
+            "conversions": 466,
+            "clicks": 6451,
+            "conversion_rate": 7.223686250193769,
+            "cost_change_pct": -3.1797226841522805,
+            "conversion_change_pct": 3.325942350332594
+          },
+          "September 2025": {
+            "cost": 485298.0,
+            "daily_budget": 566780.0,
+            "budget_utilization": 85.62369878965383,
+            "conversions": 489,
+            "clicks": 10559,
+            "conversion_rate": 4.6311203712472775,
+            "cost_change_pct": 48.31483337815701,
+            "conversion_change_pct": 4.935622317596566
+          }
+        },
+        "best_month": "Unknown",
+        "worst_month": "March 2025"
+      },
+      "budget_efficiency": {
+        "average_budget_utilization": 67.49307739240625,
+        "total_cost": 1150460.0,
+        "total_daily_budget": 1704560.0,
+        "efficiency_by_month": {
+          "March 2025": 61.615343944283396,
+          "May 2025": 55.5258022365898,
+          "September 2025": 85.62369878965383
+        },
+        "underutilized_months": [
+          "March 2025",
+          "May 2025"
+        ],
+        "well_utilized_months": [
+          "September 2025"
+        ],
+        "over_utilized_months": [],
+        "optimal_range_months": 1,
+        "budget_recommendations": [
+          "March 2025: Increase daily budget by 20-30% to capture missed opportunities",
+          "May 2025: Increase daily budget by 20-30% to capture missed opportunities"
+        ]
+      },
+      "device_performance": {
+        "device_metrics": {
+          "mobile": {
+            "clicks": 16084,
+            "impressions": 0,
+            "cost": 537319.4199999999,
+            "conversions": 723,
+            "click_share": 66.655615416494,
+            "cost_share": 46.70461398919088,
+            "conversion_share": 51.422475106685624,
+            "ctr": 0.0,
+            "cpc": 33.40707659786123,
+            "conversion_rate": 4.495150460084556,
+            "cost_per_conversion": 743.180387275242
+          },
+          "desktop": {
+            "clicks": 7969,
+            "impressions": 0,
+            "cost": 608565.38,
+            "conversions": 677,
+            "click_share": 33.025279734769995,
+            "cost_share": 52.897420234848894,
+            "conversion_share": 48.15078236130867,
+            "ctr": 0.0,
+            "cpc": 76.36659304806123,
+            "conversion_rate": 8.495419751537208,
+            "cost_per_conversion": 898.9148892171344
+          },
+          "tablet": {
+            "clicks": 77,
+            "impressions": 0,
+            "cost": 4578.450000000001,
+            "conversions": 6,
+            "click_share": 0.31910484873601325,
+            "cost_share": 0.39796577596024924,
+            "conversion_share": 0.42674253200568996,
+            "ctr": 0.0,
+            "cpc": 59.46038961038962,
+            "conversion_rate": 7.792207792207792,
+            "cost_per_conversion": 763.0750000000002
+          }
+        },
+        "best_performing_device": "desktop",
+        "total_clicks": 24130,
+        "total_cost": 1150463.2499999998,
+        "total_conversions": 1406
+      },
+      "campaign_insights": [
+        "Total spend: $1,150,460 against $1,704,560 daily budget (67.5% utilization)",
+        "Budget underutilized: 32.5% of daily budget remains unused",
+        "Generated 1,406.0 total conversions across all campaigns",
+        "Average conversion rate: 0.00%"
+      ],
+      "recommendations": [
+        "Increase daily budget allocation in March 2025, May 2025 to maximize opportunity",
+        "Focus optimization efforts on desktop campaigns based on performance"
+      ],
+      "data_summary": {
+        "campaign_records": 1183,
+        "crm_records": 1873,
+        "months_analyzed": 3
+      },
+      "data_anomalies": [
+        "CRITICAL: Average lead score only 1.6 - targeting issues"
+      ],
+      "performance_patterns": [
+        "INSIGHT: Desktop shows 8.50% conversion rate - 4.2x better than average",
+        "QUALITY: Hot Line leads average 1.7 score vs Sales Email Alias at 0.0",
+        "GEOGRAPHIC: Bhiwandi has 0.0% junk rate vs  at 27.6%"
+      ],
+      "campaign_specific_insights": {
+        "Lead-MaximiseConv": {
+          "total_leads": 261,
+          "avg_score": 1.7681992337164751,
+          "conversion_rate": 50.191570881226056,
+          "junk_rate": 20.306513409961685,
+          "contact_type_breakdown": {
+            "3pl": 69,
+            "Lead (Standalone )": 56,
+            "Junk": 53,
+            "Listing-Warehouse": 27,
+            "Logistics": 10,
+            "Job": 10,
+            "": 9,
+            "Listing-land": 5,
+            "SAAS": 5,
+            "Duplicate Entry / Contact Us Submitted Again": 3,
+            "PTL - Vendor / Aggregator": 3,
+            "Listing-Broker": 2,
+            "Warehouse": 2,
+            "Listing-3PL": 2,
+            "Transporter": 2,
+            "Joining our warehouse network": 2,
+            "[\"3PL\",\"E-commerce Fulfillment\"]": 1
+          },
+          "top_terms": {
+            "3pl logistics services": 95,
+            "3pl services": 48,
+            "3pl providers": 35,
+            "3pl warehouse": 28,
+            "3pl logistics": 16
+          },
+          "top_locations": {
+            "": 148,
+            "Bangalore": 17,
+            "Bhiwandi": 13,
+            "Mumbai": 9,
+            "Chennai": 8
+          },
+          "avg_area_requirement": 4882.567049808429,
+          "sample_notes": [
+            "[No Notes Found]",
+            "[2025-09-26 12:38 by Shaila jadhav]\nparcel tracking",
+            "[No Notes Found]"
+          ]
+        },
+        "Lead_maximise": {
+          "total_leads": 4,
+          "avg_score": 0.625,
+          "conversion_rate": 75.0,
+          "junk_rate": 0.0,
+          "contact_type_breakdown": {
+            "3pl": 3,
+            "Lead (Standalone )": 1
+          },
+          "top_terms": {
+            "3pl logistics": 2,
+            "3pl providers": 1,
+            "3pl logistics services": 1
+          },
+          "top_locations": {
+            "Nagpur": 1,
+            "Nashik": 1,
+            "Ahmedabad": 1,
+            "Dhuagardh": 1
+          },
+          "avg_area_requirement": 1812.5,
+          "sample_notes": [
+            "[2025-09-25 12:12 by Rutuja Ganekar]\nshared jsw kalmeshwar - to share more locations \nhe will visit ...",
+            "[2025-09-12 12:24 by Rutuja Ganekar]\ndigvijay khairnar digvijay.khairnar@gmail.com via godamwale.com...",
+            "[2025-06-25 15:07 by Kapil Srivastava]\nclosed lost\n\n---\n\n[2025-06-06 11:25 by Kapil Srivastava]\nNot ..."
+          ]
+        },
+        "Warehouse_Lead": {
+          "total_leads": 197,
+          "avg_score": 1.8756345177664975,
+          "conversion_rate": 53.299492385786806,
+          "junk_rate": 13.19796954314721,
+          "contact_type_breakdown": {
+            "3pl": 63,
+            "Lead (Standalone )": 49,
+            "Junk": 26,
+            "Listing-Warehouse": 16,
+            "Job": 11,
+            "Listing-land": 8,
+            "SAAS": 7,
+            "Logistics": 5,
+            "": 3,
+            "Duplicate Entry / Contact Us Submitted Again": 2,
+            "Warehouse": 2,
+            "PTL - Vendor / Aggregator": 2,
+            "Broker Lead": 2,
+            "Joining our warehouse network": 1
+          },
+          "top_terms": {
+            "warehouse for rent": 132,
+            "warehousing service": 46,
+            "looking for warehouse space": 8,
+            "godown for rent": 7,
+            "godown for rent near me": 2
+          },
+          "top_locations": {
+            "": 105,
+            "Bhiwandi": 11,
+            "Bangalore": 8,
+            "Chennai": 8,
+            "Delhi": 5
+          },
+          "avg_area_requirement": 3110.1522842639592,
+          "sample_notes": [
+            "[No Notes Found]",
+            "[2025-09-24 11:20 by Shaila jadhav]\nlooking for only logistic services not looking for warehouse in ...",
+            "[2025-09-24 15:22 by Dhanashri Kulkarni]\n8446699761 Hemant\nHemant.compercept@gmail.com\nNashik -->all..."
+          ]
+        },
+        "Leads_MaximiseConv": {
+          "total_leads": 7,
+          "avg_score": 0.14285714285714285,
+          "conversion_rate": 71.42857142857143,
+          "junk_rate": 28.57142857142857,
+          "contact_type_breakdown": {
+            "Transporter": 2,
+            "Junk": 2,
+            "Job": 1,
+            "3pl": 1,
+            "Lead (Standalone )": 1
+          },
+          "top_terms": {
+            "3pl logistics services": 3,
+            "amazon fba": 1,
+            "3pl warehouse": 1,
+            "3pl logistics": 1,
+            "warehouse in delhi": 1
+          },
+          "top_locations": {
+            "": 6,
+            "Mumbai, Nhava Seva": 1
+          },
+          "avg_area_requirement": 400.0,
+          "sample_notes": [
+            "[No Notes Found]",
+            "[2025-09-01 15:12 by Shaila jadhav]\ntransportation required",
+            "[2025-06-13 16:09 by Vikas Pandey]\nfollow up mail sent\n\n---\n\n[2025-05-19 18:09 by Vikas Pandey]\nprop..."
+          ]
+        },
+        "Listing_of_Warehouse": {
+          "total_leads": 1,
+          "avg_score": 0.0,
+          "conversion_rate": 0.0,
+          "junk_rate": 0.0,
+          "contact_type_breakdown": {
+            "Lead (Standalone )": 1
+          },
+          "top_terms": {
+            "industrial warehouse for rent": 1
+          },
+          "top_locations": {
+            "": 1
+          },
+          "avg_area_requirement": 0.0,
+          "sample_notes": [
+            "[2025-05-16 15:54 by Deepali Sanghavi]\nDhanashri;\n\nNot answering.\n\n---\n\n[2025-05-15 11:44 by Vivek T..."
+          ]
+        }
+      }
+    },
+    "crm_analysis": {
+      "error": "'CampaignCRMAnalyzer' object has no attribute '_analyze_lead_journey_patterns'",
+      "lead_metrics": {
+        "total_leads": 0,
+        "average_monthly_leads": 0,
+        "average_score": 0,
+        "lead_trend": "No data"
+      },
+      "lead_quality": {
+        "quality_percentage": 0,
+        "stage_distribution": {},
+        "score_analysis": {}
+      },
+      "source_analysis": {
+        "source_distribution": {},
+        "top_sources": []
+      },
+      "conversion_funnel": {
+        "funnel_stages": {},
+        "conversion_rates": {}
+      },
+      "geographic_insights": {
+        "location_distribution": {},
+        "top_locations": []
+      },
+      "temporal_patterns": {
+        "hourly_patterns": {},
+        "daily_patterns": {}
+      },
+      "recommendations": [
+        "No CRM data available"
+      ]
+    },
+    "cross_channel_analysis": {
+      "cost_per_lead": {
+        "March 2025": 742.756043956044,
+        "May 2025": 484.7525925925926,
+        "September 2025": 653.1601615074024
+      },
+      "monthly_correlation": {
+        "cost_per_lead_data": {
+          "March 2025": 742.756043956044,
+          "May 2025": 484.7525925925926,
+          "September 2025": 653.1601615074024
+        },
+        "average_cost_per_lead": 626.889599352013,
+        "most_efficient_month": "May 2025",
+        "least_efficient_month": "March 2025",
+        "insights": [
+          "Average cost per lead: $626.89",
+          "Most efficient: May 2025 ($484.75 per lead)",
+          "Least efficient: March 2025 ($742.76 per lead)"
+        ]
+      },
+      "roi_analysis": {
+        "cost_per_lead_by_month": {
+          "March 2025": 742.756043956044,
+          "May 2025": 484.7525925925926,
+          "September 2025": 653.1601615074024
+        },
+        "average_cost_per_lead": 626.889599352013,
+        "cost_per_lead_trend": "stable"
+      },
+      "efficiency_insights": [
+        "Average cost per lead: $626.89",
+        "Most efficient: May 2025 ($484.75 per lead)",
+        "Least efficient: March 2025 ($742.76 per lead)"
+      ]
+    }
+  },
+  "timestamp": "2025-09-27T15:38:34.713634",
+  "expires_at": "2025-09-27T15:53:34.713641"
+}
